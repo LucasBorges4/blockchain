@@ -1,0 +1,898 @@
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+go: downloading github.com/snikch/goodman v0.0.0-20171125024755-10e37e294daa
+go: downloading github.com/snikch/goodman v0.0.0-20171125024755-10e37e294daa
+go: downloading github.com/Masterminds/semver/v3 v3.5.0
+go: downloading github.com/Masterminds/semver/v3 v3.5.0
+go: downloading github.com/go-git/go-git/v5 v5.19.3
+go: downloading github.com/go-git/go-git/v5 v5.19.3
+go: downloading github.com/BurntSushi/toml v1.6.0
+go: downloading github.com/BurntSushi/toml v1.6.0
+go: downloading github.com/gofrs/uuid v4.4.0+incompatible
+go: downloading github.com/gofrs/uuid v4.4.0+incompatible
+go: downloading github.com/informalsystems/tm-load-test v1.3.0
+go: downloading github.com/informalsystems/tm-load-test v1.3.0
+go: downloading github.com/stretchr/objx v0.5.3
+go: downloading github.com/stretchr/objx v0.5.3
+go: downloading dario.cat/mergo v1.0.2
+go: downloading dario.cat/mergo v1.0.2
+go: downloading github.com/ProtonMail/go-crypto v1.1.6
+go: downloading github.com/go-git/go-billy/v5 v5.9.2
+go: downloading github.com/ProtonMail/go-crypto v1.1.6
+go: downloading github.com/go-git/go-billy/v5 v5.9.2
+go: downloading github.com/emirpasic/gods v1.18.1
+go: downloading github.com/emirpasic/gods v1.18.1
+go: downloading github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
+go: downloading github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
+go: downloading github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
+go: downloading github.com/pjbgf/sha1cd v0.7.0
+go: downloading github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376
+go: downloading github.com/pjbgf/sha1cd v0.7.0
+go: downloading github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
+go: downloading github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
+go: downloading github.com/cyphar/filepath-securejoin v0.6.1
+go: downloading github.com/cyphar/filepath-securejoin v0.6.1
+go: downloading github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
+go: downloading github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
+go: downloading github.com/kevinburke/ssh_config v1.2.0
+go: downloading github.com/kevinburke/ssh_config v1.2.0
+go: downloading github.com/skeema/knownhosts v1.3.1
+go: downloading github.com/skeema/knownhosts v1.3.1
+go: downloading github.com/xanzy/ssh-agent v0.3.3
+go: downloading github.com/xanzy/ssh-agent v0.3.3
+go: downloading gopkg.in/warnings.v0 v0.1.2
+go: downloading gopkg.in/warnings.v0 v0.1.2
+go: downloading github.com/satori/go.uuid v1.2.0
+go: downloading github.com/satori/go.uuid v1.2.0
+--> Running go test
+--> Running go test
+go: downloading github.com/fortytw2/leaktest v1.3.0
+go: downloading github.com/fortytw2/leaktest v1.3.0
+go: downloading github.com/supranational/blst v0.3.17
+go: downloading github.com/supranational/blst v0.3.17
+go: downloading github.com/btcsuite/btcd/btcutil v1.2.0
+go: downloading github.com/btcsuite/btcd/btcutil v1.2.0
+go: downloading github.com/adlio/schema v1.5.2
+go: downloading github.com/adlio/schema v1.5.2
+go: downloading github.com/ory/dockertest v3.3.5+incompatible
+go: downloading github.com/ory/dockertest v3.3.5+incompatible
+go: downloading github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5
+go: downloading github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5
+go: downloading github.com/containerd/continuity v0.4.5
+go: downloading github.com/containerd/continuity v0.4.5
+go: downloading github.com/cenkalti/backoff v2.2.1+incompatible
+go: downloading github.com/cenkalti/backoff v2.2.1+incompatible
+go: downloading github.com/opencontainers/image-spec v1.1.1
+go: downloading github.com/opencontainers/runc v1.3.6
+go: downloading github.com/opencontainers/image-spec v1.1.1
+go: downloading github.com/opencontainers/runc v1.3.6
+go: downloading github.com/docker/go-connections v0.7.0
+go: downloading github.com/docker/go-connections v0.7.0
+go: downloading github.com/moby/sys/user v0.4.0
+go: downloading github.com/moby/sys/user v0.4.0
+# github.com/supranational/blst/bindings/go
+/tmp/ccT7aRLl.s: Assembler messages:
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ctx_inverse_mod_384-x86_64.s:1708: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ctx_inverse_mod_384-x86_64.s:1708: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384-x86_64.s:2206: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384-x86_64.s:2206: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384x384-x86_64.s:244: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384x384-x86_64.s:244: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_384-x86_64.s:3019: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_384-x86_64.s:3019: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_256-x86_64.s:672: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_256-x86_64.s:672: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_256-x86_64.s:673: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_256-x86_64.s:673: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_inverse_mod_256-x86_64.s:1242: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_inverse_mod_256-x86_64.s:1242: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/div3w-x86_64.s:159: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/div3w-x86_64.s:159: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_is_square_mod_384-x86_64.s:517: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_is_square_mod_384-x86_64.s:517: Warning: ignoring changed section type for .note.GNU-stack
+# github.com/supranational/blst/bindings/go
+/tmp/ccT7aRLl.s: Assembler messages:
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ctx_inverse_mod_384-x86_64.s:1708: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ctx_inverse_mod_384-x86_64.s:1708: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384-x86_64.s:2206: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384-x86_64.s:2206: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384x384-x86_64.s:244: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_384x384-x86_64.s:244: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_384-x86_64.s:3019: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_384-x86_64.s:3019: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_256-x86_64.s:672: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/mulx_mont_256-x86_64.s:672: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_256-x86_64.s:673: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/add_mod_256-x86_64.s:673: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_inverse_mod_256-x86_64.s:1242: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_inverse_mod_256-x86_64.s:1242: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/div3w-x86_64.s:159: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/div3w-x86_64.s:159: Warning: ignoring changed section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_is_square_mod_384-x86_64.s:517: Warning: ignoring incorrect section type for .note.GNU-stack
+/home/lucas/go/pkg/mod/github.com/supranational/blst@v0.3.17/bindings/go/../../build/elf/ct_is_square_mod_384-x86_64.s:517: Warning: ignoring changed section type for .note.GNU-stack
+ok  	github.com/cometbft/cometbft/abci/client	0.683s
+ok  	github.com/cometbft/cometbft/abci/client	0.683s
+?   	github.com/cometbft/cometbft/abci/client/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/client/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/cmd/abci-cli	[no test files]
+?   	github.com/cometbft/cometbft/abci/cmd/abci-cli	[no test files]
+ok  	github.com/cometbft/cometbft/abci/example/kvstore	0.013s
+ok  	github.com/cometbft/cometbft/abci/example/kvstore	0.013s
+ok  	github.com/cometbft/cometbft/abci/server	0.009s
+ok  	github.com/cometbft/cometbft/abci/server	0.009s
+ok  	github.com/cometbft/cometbft/abci/tests	0.009s
+ok  	github.com/cometbft/cometbft/abci/tests	0.009s
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/parallel	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/parallel	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/simple	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/server	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/simple	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/server	[no test files]
+ok  	github.com/cometbft/cometbft/abci/types	0.006s
+ok  	github.com/cometbft/cometbft/abci/types	0.006s
+?   	github.com/cometbft/cometbft/abci/types/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/types/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/version	[no test files]
+?   	github.com/cometbft/cometbft/abci/version	[no test files]
+ok  	github.com/cometbft/cometbft/blocksync	80.719s
+ok  	github.com/cometbft/cometbft/blocksync	80.719s
+?   	github.com/cometbft/cometbft/cmd/cometbft	[no test files]
+?   	github.com/cometbft/cometbft/cmd/cometbft	[no test files]
+ok  	github.com/cometbft/cometbft/cmd/cometbft/commands	0.020s
+ok  	github.com/cometbft/cometbft/cmd/cometbft/commands	0.020s
+?   	github.com/cometbft/cometbft/cmd/cometbft/commands/debug	[no test files]
+?   	github.com/cometbft/cometbft/cmd/cometbft/commands/debug	[no test files]
+?   	github.com/cometbft/cometbft/cmd/contract_tests	[no test files]
+?   	github.com/cometbft/cometbft/cmd/contract_tests	[no test files]
+?   	github.com/cometbft/cometbft/cmd/priv_val_server	[no test files]
+?   	github.com/cometbft/cometbft/cmd/priv_val_server	[no test files]
+ok  	github.com/cometbft/cometbft/config	0.008s
+ok  	github.com/cometbft/cometbft/config	0.008s
+ok  	github.com/cometbft/cometbft/consensus	15.734s
+ok  	github.com/cometbft/cometbft/consensus	15.734s
+ok  	github.com/cometbft/cometbft/consensus/types	0.010s
+ok  	github.com/cometbft/cometbft/consensus/types	0.010s
+ok  	github.com/cometbft/cometbft/crypto	0.002s
+ok  	github.com/cometbft/cometbft/crypto	0.002s
+ok  	github.com/cometbft/cometbft/crypto/armor	0.002s
+?   	github.com/cometbft/cometbft/crypto/batch	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/armor	0.002s
+?   	github.com/cometbft/cometbft/crypto/batch	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/bls12381	0.008s
+ok  	github.com/cometbft/cometbft/crypto/bls12381	0.008s
+ok  	github.com/cometbft/cometbft/crypto/ed25519	0.004s
+ok  	github.com/cometbft/cometbft/crypto/ed25519	0.004s
+ok  	github.com/cometbft/cometbft/crypto/encoding	0.011s
+ok  	github.com/cometbft/cometbft/crypto/encoding	0.011s
+?   	github.com/cometbft/cometbft/crypto/internal/benchmarking	[no test files]
+?   	github.com/cometbft/cometbft/crypto/internal/benchmarking	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/merkle	0.106s
+ok  	github.com/cometbft/cometbft/crypto/merkle	0.106s
+ok  	github.com/cometbft/cometbft/crypto/mldsa65	0.077s
+ok  	github.com/cometbft/cometbft/crypto/mldsa65	0.077s
+?   	github.com/cometbft/cometbft/crypto/mocks	[no test files]
+?   	github.com/cometbft/cometbft/crypto/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/secp256k1	0.129s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1	0.129s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1eth	0.010s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1eth	0.010s
+ok  	github.com/cometbft/cometbft/crypto/tmhash	0.002s
+ok  	github.com/cometbft/cometbft/crypto/tmhash	0.002s
+ok  	github.com/cometbft/cometbft/crypto/xchacha20poly1305	0.012s
+ok  	github.com/cometbft/cometbft/crypto/xchacha20poly1305	0.012s
+ok  	github.com/cometbft/cometbft/crypto/xsalsa20symmetric	0.214s
+ok  	github.com/cometbft/cometbft/crypto/xsalsa20symmetric	0.214s
+ok  	github.com/cometbft/cometbft/evidence	0.907s
+ok  	github.com/cometbft/cometbft/evidence	0.907s
+?   	github.com/cometbft/cometbft/evidence/mocks	[no test files]
+?   	github.com/cometbft/cometbft/evidence/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/inspect	0.134s
+?   	github.com/cometbft/cometbft/inspect/rpc	[no test files]
+ok  	github.com/cometbft/cometbft/inspect	0.134s
+?   	github.com/cometbft/cometbft/inspect/rpc	[no test files]
+ok  	github.com/cometbft/cometbft/internal/autopool	11.865s
+ok  	github.com/cometbft/cometbft/internal/autopool	11.865s
+ok  	github.com/cometbft/cometbft/internal/guard	0.203s
+ok  	github.com/cometbft/cometbft/internal/guard	0.203s
+?   	github.com/cometbft/cometbft/internal/indexer	[no test files]
+?   	github.com/cometbft/cometbft/internal/indexer	[no test files]
+?   	github.com/cometbft/cometbft/internal/keytypes	[no test files]
+?   	github.com/cometbft/cometbft/internal/keytypes	[no test files]
+ok  	github.com/cometbft/cometbft/internal/movavg	0.002s
+ok  	github.com/cometbft/cometbft/internal/movavg	0.002s
+ok  	github.com/cometbft/cometbft/internal/protowire	0.002s
+ok  	github.com/cometbft/cometbft/internal/protowire	0.002s
+ok  	github.com/cometbft/cometbft/internal/test	0.008s
+ok  	github.com/cometbft/cometbft/internal/test	0.008s
+ok  	github.com/cometbft/cometbft/libs/async	1.074s
+ok  	github.com/cometbft/cometbft/libs/async	1.074s
+ok  	github.com/cometbft/cometbft/libs/autofile	0.053s
+ok  	github.com/cometbft/cometbft/libs/autofile	0.053s
+?   	github.com/cometbft/cometbft/libs/autofile/cmd	[no test files]
+?   	github.com/cometbft/cometbft/libs/autofile/cmd	[no test files]
+ok  	github.com/cometbft/cometbft/libs/bits	0.004s
+ok  	github.com/cometbft/cometbft/libs/bits	0.004s
+ok  	github.com/cometbft/cometbft/libs/bytes	0.002s
+ok  	github.com/cometbft/cometbft/libs/bytes	0.002s
+ok  	github.com/cometbft/cometbft/libs/cli	0.006s
+ok  	github.com/cometbft/cometbft/libs/cli	0.006s
+ok  	github.com/cometbft/cometbft/libs/cli/flags	0.002s
+ok  	github.com/cometbft/cometbft/libs/cli/flags	0.002s
+ok  	github.com/cometbft/cometbft/libs/clist	4.209s
+ok  	github.com/cometbft/cometbft/libs/clist	4.209s
+ok  	github.com/cometbft/cometbft/libs/cmap	0.002s
+ok  	github.com/cometbft/cometbft/libs/cmap	0.002s
+ok  	github.com/cometbft/cometbft/libs/events	0.011s
+?   	github.com/cometbft/cometbft/libs/fail	[no test files]
+ok  	github.com/cometbft/cometbft/libs/events	0.011s
+?   	github.com/cometbft/cometbft/libs/fail	[no test files]
+ok  	github.com/cometbft/cometbft/libs/flowrate	0.937s
+ok  	github.com/cometbft/cometbft/libs/flowrate	0.937s
+ok  	github.com/cometbft/cometbft/libs/json	0.004s
+ok  	github.com/cometbft/cometbft/libs/json	0.004s
+ok  	github.com/cometbft/cometbft/libs/log	0.005s
+ok  	github.com/cometbft/cometbft/libs/log	0.005s
+ok  	github.com/cometbft/cometbft/libs/math	0.002s
+ok  	github.com/cometbft/cometbft/libs/math	0.002s
+ok  	github.com/cometbft/cometbft/libs/net	0.002s
+ok  	github.com/cometbft/cometbft/libs/net	0.002s
+ok  	github.com/cometbft/cometbft/libs/os	0.003s
+ok  	github.com/cometbft/cometbft/libs/os	0.003s
+ok  	github.com/cometbft/cometbft/libs/progressbar	0.110s
+ok  	github.com/cometbft/cometbft/libs/progressbar	0.110s
+ok  	github.com/cometbft/cometbft/libs/protoio	0.016s
+ok  	github.com/cometbft/cometbft/libs/protoio	0.016s
+ok  	github.com/cometbft/cometbft/libs/pubsub	3.020s
+ok  	github.com/cometbft/cometbft/libs/pubsub	3.020s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query	0.007s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query	0.007s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query/syntax	0.002s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query/syntax	0.002s
+ok  	github.com/cometbft/cometbft/libs/rand	0.104s
+ok  	github.com/cometbft/cometbft/libs/rand	0.104s
+ok  	github.com/cometbft/cometbft/libs/service	0.002s
+ok  	github.com/cometbft/cometbft/libs/service	0.002s
+ok  	github.com/cometbft/cometbft/libs/strings	0.003s
+ok  	github.com/cometbft/cometbft/libs/strings	0.003s
+?   	github.com/cometbft/cometbft/libs/sync	[no test files]
+?   	github.com/cometbft/cometbft/libs/sync	[no test files]
+ok  	github.com/cometbft/cometbft/libs/tempfile	0.003s
+ok  	github.com/cometbft/cometbft/libs/tempfile	0.003s
+?   	github.com/cometbft/cometbft/libs/test	[no test files]
+?   	github.com/cometbft/cometbft/libs/test	[no test files]
+ok  	github.com/cometbft/cometbft/libs/timer	0.535s
+ok  	github.com/cometbft/cometbft/libs/timer	0.535s
+2026/11/13 03:35:08 verify from #2 to #112742 failed: invalid header: new header has a time from the future 2026-11-13 06:36:02.560342922 +0000 UTC (now: 2026-11-13 03:35:08.260678648 -0300 -03 m=+61.370848594; max clock drift: 10s)
+FAIL	github.com/cometbft/cometbft/light	61.382s
+2026/11/13 03:35:08 verify from #2 to #112742 failed: invalid header: new header has a time from the future 2026-11-13 06:36:02.560342922 +0000 UTC (now: 2026-11-13 03:35:08.260678648 -0300 -03 m=+61.370848594; max clock drift: 10s)
+FAIL	github.com/cometbft/cometbft/light	61.382s
+?   	github.com/cometbft/cometbft/light/provider	[no test files]
+?   	github.com/cometbft/cometbft/light/provider	[no test files]
+CometBFT running!
+E[2026-11-13|03:35:18.997] Stopped accept routine, as transport is closed module=p2p numPeers=0
+E[2026-11-13|03:35:18.997] Error serving server                         err="accept tcp 127.0.0.1:38227: use of closed network connection"
+E[2026-11-13|03:35:18.997] Error starting gRPC server                   err="accept tcp 127.0.0.1:33233: use of closed network connection"
+--- FAIL: TestProvider (19.51s)
+    http_test.go:62: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:62
+        	Error:      	Should be true
+        	Test:       	TestProvider
+    http_test.go:77: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:77
+        	Error:      	Not equal: 
+        	            	expected: &errors.errorString{s:"height requested is too high"}
+        	            	actual  : &errors.errorString{s:"light block not found"}
+        	            	
+        	            	Diff:
+        	            	--- Expected
+        	            	+++ Actual
+        	            	@@ -1,3 +1,3 @@
+        	            	 (*errors.errorString)({
+        	            	- s: (string) (len=28) "height requested is too high"
+        	            	+ s: (string) (len=21) "light block not found"
+        	            	 })
+        	Test:       	TestProvider
+FAIL
+FAIL	github.com/cometbft/cometbft/light/provider/http	19.528s
+CometBFT running!
+E[2026-11-13|03:35:18.997] Stopped accept routine, as transport is closed module=p2p numPeers=0
+E[2026-11-13|03:35:18.997] Error serving server                         err="accept tcp 127.0.0.1:38227: use of closed network connection"
+E[2026-11-13|03:35:18.997] Error starting gRPC server                   err="accept tcp 127.0.0.1:33233: use of closed network connection"
+--- FAIL: TestProvider (19.51s)
+    http_test.go:62: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:62
+        	Error:      	Should be true
+        	Test:       	TestProvider
+    http_test.go:77: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:77
+        	Error:      	Not equal: 
+        	            	expected: &errors.errorString{s:"height requested is too high"}
+        	            	actual  : &errors.errorString{s:"light block not found"}
+        	            	
+        	            	Diff:
+        	            	--- Expected
+        	            	+++ Actual
+        	            	@@ -1,3 +1,3 @@
+        	            	 (*errors.errorString)({
+        	            	- s: (string) (len=28) "height requested is too high"
+        	            	+ s: (string) (len=21) "light block not found"
+        	            	 })
+        	Test:       	TestProvider
+FAIL
+FAIL	github.com/cometbft/cometbft/light/provider/http	19.528s
+?   	github.com/cometbft/cometbft/light/provider/mock	[no test files]
+?   	github.com/cometbft/cometbft/light/proxy	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc	[no test files]
+?   	github.com/cometbft/cometbft/light/provider/mock	[no test files]
+?   	github.com/cometbft/cometbft/light/proxy	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc/mocks	[no test files]
+?   	github.com/cometbft/cometbft/light/store	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc/mocks	[no test files]
+?   	github.com/cometbft/cometbft/light/store	[no test files]
+ok  	github.com/cometbft/cometbft/light/store/db	0.013s
+ok  	github.com/cometbft/cometbft/light/store/db	0.013s
+ok  	github.com/cometbft/cometbft/lp2p	8.836s
+ok  	github.com/cometbft/cometbft/lp2p	8.836s
+ok  	github.com/cometbft/cometbft/mempool	12.697s
+ok  	github.com/cometbft/cometbft/mempool	12.697s
+?   	github.com/cometbft/cometbft/mempool/mocks	[no test files]
+?   	github.com/cometbft/cometbft/mempool/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/node	5.443s
+ok  	github.com/cometbft/cometbft/node	5.443s
+ok  	github.com/cometbft/cometbft/p2p	12.750s
+ok  	github.com/cometbft/cometbft/p2p	12.750s
+ok  	github.com/cometbft/cometbft/p2p/conn	5.792s
+?   	github.com/cometbft/cometbft/p2p/mock	[no test files]
+ok  	github.com/cometbft/cometbft/p2p/conn	5.792s
+?   	github.com/cometbft/cometbft/p2p/mock	[no test files]
+?   	github.com/cometbft/cometbft/p2p/mocks	[no test files]
+?   	github.com/cometbft/cometbft/p2p/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/p2p/pex	17.932s
+ok  	github.com/cometbft/cometbft/p2p/pex	17.932s
+ok  	github.com/cometbft/cometbft/privval	30.772s
+ok  	github.com/cometbft/cometbft/privval	30.772s
+?   	github.com/cometbft/cometbft/proto/tendermint/blocksync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/consensus	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/crypto	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/libs/bits	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/mempool	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/p2p	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/privval	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/blocksync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/consensus	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/crypto	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/libs/bits	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/mempool	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/p2p	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/privval	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/rpc/grpc	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/state	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/rpc/grpc	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/state	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/statesync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/store	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/types	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/version	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/statesync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/store	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/types	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/version	[no test files]
+ok  	github.com/cometbft/cometbft/proxy	0.126s
+ok  	github.com/cometbft/cometbft/proxy	0.126s
+?   	github.com/cometbft/cometbft/proxy/mocks	[no test files]
+?   	github.com/cometbft/cometbft/proxy/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/client	7.201s
+ok  	github.com/cometbft/cometbft/rpc/client	7.201s
+?   	github.com/cometbft/cometbft/rpc/client/http	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/local	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/http	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/local	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/client/mock	0.010s
+ok  	github.com/cometbft/cometbft/rpc/client/mock	0.010s
+?   	github.com/cometbft/cometbft/rpc/client/mocks	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/core	0.012s
+ok  	github.com/cometbft/cometbft/rpc/core	0.012s
+ok  	github.com/cometbft/cometbft/rpc/core/types	0.009s
+ok  	github.com/cometbft/cometbft/rpc/core/types	0.009s
+ok  	github.com/cometbft/cometbft/rpc/grpc	0.027s
+ok  	github.com/cometbft/cometbft/rpc/grpc	0.027s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc	8.016s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc	8.016s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/client	8.823s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/client	8.823s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/server	0.140s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/server	0.140s
+?   	github.com/cometbft/cometbft/rpc/jsonrpc/test	[no test files]
+?   	github.com/cometbft/cometbft/rpc/jsonrpc/test	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/types	0.003s
+?   	github.com/cometbft/cometbft/rpc/test	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/types	0.003s
+?   	github.com/cometbft/cometbft/rpc/test	[no test files]
+?   	github.com/cometbft/cometbft/scripts/json2wal	[no test files]
+?   	github.com/cometbft/cometbft/scripts/json2wal	[no test files]
+ok  	github.com/cometbft/cometbft/scripts/metricsgen	0.005s
+ok  	github.com/cometbft/cometbft/scripts/metricsgen	0.005s
+ok  	github.com/cometbft/cometbft/scripts/metricsgen/metricsdiff	0.003s
+ok  	github.com/cometbft/cometbft/scripts/metricsgen/metricsdiff	0.003s
+?   	github.com/cometbft/cometbft/scripts/wal2json	[no test files]
+?   	github.com/cometbft/cometbft/scripts/wal2json	[no test files]
+ok  	github.com/cometbft/cometbft/state	1.441s
+ok  	github.com/cometbft/cometbft/state	1.441s
+?   	github.com/cometbft/cometbft/state/indexer	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/block	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/block	[no test files]
+ok  	github.com/cometbft/cometbft/state/indexer/block/kv	0.008s
+ok  	github.com/cometbft/cometbft/state/indexer/block/kv	0.008s
+?   	github.com/cometbft/cometbft/state/indexer/block/null	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/mocks	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/block/null	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/mocks	[no test files]
+2026/11/13 03:37:50 Starting docker pool: : dial unix /var/run/docker.sock: connect: no such file or directory
+FAIL	github.com/cometbft/cometbft/state/indexer/sink/psql	0.007s
+?   	github.com/cometbft/cometbft/state/mocks	[no test files]
+2026/11/13 03:37:50 Starting docker pool: : dial unix /var/run/docker.sock: connect: no such file or directory
+FAIL	github.com/cometbft/cometbft/state/indexer/sink/psql	0.007s
+?   	github.com/cometbft/cometbft/state/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/state/txindex	0.108s
+ok  	github.com/cometbft/cometbft/state/txindex	0.108s
+ok  	github.com/cometbft/cometbft/state/txindex/kv	0.010s
+?   	github.com/cometbft/cometbft/state/txindex/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/state/txindex/kv	0.010s
+?   	github.com/cometbft/cometbft/state/txindex/mocks	[no test files]
+?   	github.com/cometbft/cometbft/state/txindex/null	[no test files]
+?   	github.com/cometbft/cometbft/state/txindex/null	[no test files]
+ok  	github.com/cometbft/cometbft/statesync	3.078s
+ok  	github.com/cometbft/cometbft/statesync	3.078s
+?   	github.com/cometbft/cometbft/statesync/mocks	[no test files]
+?   	github.com/cometbft/cometbft/statesync/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/store	0.059s
+ok  	github.com/cometbft/cometbft/store	0.059s
+?   	github.com/cometbft/cometbft/test/app	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/app	[no test files]
+?   	github.com/cometbft/cometbft/test/app	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/app	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/generator	0.015s
+ok  	github.com/cometbft/cometbft/test/e2e/generator	0.015s
+?   	github.com/cometbft/cometbft/test/e2e/node	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/node	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/pkg	0.021s
+ok  	github.com/cometbft/cometbft/test/e2e/pkg	0.021s
+?   	github.com/cometbft/cometbft/test/e2e/pkg/exec	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/exec	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/digitalocean	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/digitalocean	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/docker	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/docker	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/runner	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/runner	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/tests	0.008s
+ok  	github.com/cometbft/cometbft/test/e2e/tests	0.008s
+ok  	github.com/cometbft/cometbft/test/fuzz/mempool	0.008s
+ok  	github.com/cometbft/cometbft/test/fuzz/mempool	0.008s
+ok  	github.com/cometbft/cometbft/test/fuzz/tests	0.013s
+ok  	github.com/cometbft/cometbft/test/fuzz/tests	0.013s
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/load	[no test files]
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/load	[no test files]
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/report	[no test files]
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/report	[no test files]
+ok  	github.com/cometbft/cometbft/test/loadtime/payload	0.002s
+ok  	github.com/cometbft/cometbft/test/loadtime/payload	0.002s
+ok  	github.com/cometbft/cometbft/test/loadtime/report	0.007s
+?   	github.com/cometbft/cometbft/test/utils	[no test files]
+ok  	github.com/cometbft/cometbft/test/loadtime/report	0.007s
+?   	github.com/cometbft/cometbft/test/utils	[no test files]
+ok  	github.com/cometbft/cometbft/types	3.020s
+ok  	github.com/cometbft/cometbft/types	3.020s
+?   	github.com/cometbft/cometbft/types/errors	[no test files]
+?   	github.com/cometbft/cometbft/types/errors	[no test files]
+ok  	github.com/cometbft/cometbft/types/time	0.002s
+?   	github.com/cometbft/cometbft/version	[no test files]
+ok  	github.com/cometbft/cometbft/types/time	0.002s
+?   	github.com/cometbft/cometbft/version	[no test files]
+FAIL
+FAIL
+make[1]: *** [tests.mk:35: test] Error 1
+make[1]: *** [tests.mk:35: test] Error 1
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+ok  	github.com/cometbft/cometbft/abci/client	1.459s
+?   	github.com/cometbft/cometbft/abci/client/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/cmd/abci-cli	[no test files]
+ok  	github.com/cometbft/cometbft/abci/example/kvstore	0.041s
+ok  	github.com/cometbft/cometbft/abci/server	0.020s
+ok  	github.com/cometbft/cometbft/abci/tests	0.013s
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/parallel	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/simple	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/server	[no test files]
+ok  	github.com/cometbft/cometbft/abci/types	0.022s
+?   	github.com/cometbft/cometbft/abci/types/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/version	[no test files]
+ok  	github.com/cometbft/cometbft/abci/client	1.459s
+?   	github.com/cometbft/cometbft/abci/client/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/cmd/abci-cli	[no test files]
+ok  	github.com/cometbft/cometbft/abci/example/kvstore	0.041s
+ok  	github.com/cometbft/cometbft/abci/server	0.020s
+ok  	github.com/cometbft/cometbft/abci/tests	0.013s
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/parallel	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/benchmarks/simple	[no test files]
+?   	github.com/cometbft/cometbft/abci/tests/server	[no test files]
+ok  	github.com/cometbft/cometbft/abci/types	0.022s
+?   	github.com/cometbft/cometbft/abci/types/mocks	[no test files]
+?   	github.com/cometbft/cometbft/abci/version	[no test files]
+ok  	github.com/cometbft/cometbft/blocksync	110.315s
+?   	github.com/cometbft/cometbft/cmd/cometbft	[no test files]
+ok  	github.com/cometbft/cometbft/blocksync	110.315s
+?   	github.com/cometbft/cometbft/cmd/cometbft	[no test files]
+ok  	github.com/cometbft/cometbft/cmd/cometbft/commands	0.074s
+?   	github.com/cometbft/cometbft/cmd/cometbft/commands/debug	[no test files]
+?   	github.com/cometbft/cometbft/cmd/contract_tests	[no test files]
+?   	github.com/cometbft/cometbft/cmd/priv_val_server	[no test files]
+ok  	github.com/cometbft/cometbft/config	0.013s
+ok  	github.com/cometbft/cometbft/consensus	15.846s
+ok  	github.com/cometbft/cometbft/consensus/types	0.018s
+ok  	github.com/cometbft/cometbft/crypto	0.006s
+ok  	github.com/cometbft/cometbft/crypto/armor	0.004s
+ok  	github.com/cometbft/cometbft/cmd/cometbft/commands	0.074s
+?   	github.com/cometbft/cometbft/cmd/cometbft/commands/debug	[no test files]
+?   	github.com/cometbft/cometbft/cmd/contract_tests	[no test files]
+?   	github.com/cometbft/cometbft/cmd/priv_val_server	[no test files]
+ok  	github.com/cometbft/cometbft/config	0.013s
+ok  	github.com/cometbft/cometbft/consensus	15.846s
+ok  	github.com/cometbft/cometbft/consensus/types	0.018s
+ok  	github.com/cometbft/cometbft/crypto	0.006s
+ok  	github.com/cometbft/cometbft/crypto/armor	0.004s
+?   	github.com/cometbft/cometbft/crypto/batch	[no test files]
+?   	github.com/cometbft/cometbft/crypto/bls12381	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/ed25519	0.007s
+?   	github.com/cometbft/cometbft/crypto/batch	[no test files]
+?   	github.com/cometbft/cometbft/crypto/bls12381	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/ed25519	0.007s
+ok  	github.com/cometbft/cometbft/crypto/encoding	0.019s
+?   	github.com/cometbft/cometbft/crypto/internal/benchmarking	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/encoding	0.019s
+?   	github.com/cometbft/cometbft/crypto/internal/benchmarking	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/merkle	0.202s
+ok  	github.com/cometbft/cometbft/crypto/mldsa65	0.149s
+?   	github.com/cometbft/cometbft/crypto/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/merkle	0.202s
+ok  	github.com/cometbft/cometbft/crypto/mldsa65	0.149s
+?   	github.com/cometbft/cometbft/crypto/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/secp256k1	0.186s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1eth	0.015s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1	0.186s
+ok  	github.com/cometbft/cometbft/crypto/secp256k1eth	0.015s
+ok  	github.com/cometbft/cometbft/crypto/tmhash	0.003s
+ok  	github.com/cometbft/cometbft/crypto/xchacha20poly1305	0.018s
+ok  	github.com/cometbft/cometbft/crypto/tmhash	0.003s
+ok  	github.com/cometbft/cometbft/crypto/xchacha20poly1305	0.018s
+ok  	github.com/cometbft/cometbft/crypto/xsalsa20symmetric	0.242s
+ok  	github.com/cometbft/cometbft/evidence	0.953s
+?   	github.com/cometbft/cometbft/evidence/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/crypto/xsalsa20symmetric	0.242s
+ok  	github.com/cometbft/cometbft/evidence	0.953s
+?   	github.com/cometbft/cometbft/evidence/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/inspect	0.202s
+?   	github.com/cometbft/cometbft/inspect/rpc	[no test files]
+ok  	github.com/cometbft/cometbft/inspect	0.202s
+?   	github.com/cometbft/cometbft/inspect/rpc	[no test files]
+ok  	github.com/cometbft/cometbft/internal/autopool	11.891s
+ok  	github.com/cometbft/cometbft/internal/guard	0.205s
+?   	github.com/cometbft/cometbft/internal/indexer	[no test files]
+ok  	github.com/cometbft/cometbft/internal/autopool	11.891s
+ok  	github.com/cometbft/cometbft/internal/guard	0.205s
+?   	github.com/cometbft/cometbft/internal/indexer	[no test files]
+?   	github.com/cometbft/cometbft/internal/keytypes	[no test files]
+ok  	github.com/cometbft/cometbft/internal/movavg	0.003s
+?   	github.com/cometbft/cometbft/internal/keytypes	[no test files]
+ok  	github.com/cometbft/cometbft/internal/movavg	0.003s
+ok  	github.com/cometbft/cometbft/internal/protowire	0.003s
+ok  	github.com/cometbft/cometbft/internal/protowire	0.003s
+ok  	github.com/cometbft/cometbft/internal/test	0.008s
+ok  	github.com/cometbft/cometbft/internal/test	0.008s
+ok  	github.com/cometbft/cometbft/libs/async	1.092s
+ok  	github.com/cometbft/cometbft/libs/autofile	0.075s
+?   	github.com/cometbft/cometbft/libs/autofile/cmd	[no test files]
+ok  	github.com/cometbft/cometbft/libs/bits	0.005s
+ok  	github.com/cometbft/cometbft/libs/async	1.092s
+ok  	github.com/cometbft/cometbft/libs/autofile	0.075s
+?   	github.com/cometbft/cometbft/libs/autofile/cmd	[no test files]
+ok  	github.com/cometbft/cometbft/libs/bits	0.005s
+ok  	github.com/cometbft/cometbft/libs/bytes	0.003s
+ok  	github.com/cometbft/cometbft/libs/cli	0.008s
+ok  	github.com/cometbft/cometbft/libs/bytes	0.003s
+ok  	github.com/cometbft/cometbft/libs/cli	0.008s
+ok  	github.com/cometbft/cometbft/libs/cli/flags	0.003s
+ok  	github.com/cometbft/cometbft/libs/clist	4.268s
+ok  	github.com/cometbft/cometbft/libs/cmap	0.004s
+ok  	github.com/cometbft/cometbft/libs/cli/flags	0.003s
+ok  	github.com/cometbft/cometbft/libs/clist	4.268s
+ok  	github.com/cometbft/cometbft/libs/cmap	0.004s
+ok  	github.com/cometbft/cometbft/libs/events	0.011s
+?   	github.com/cometbft/cometbft/libs/fail	[no test files]
+ok  	github.com/cometbft/cometbft/libs/events	0.011s
+?   	github.com/cometbft/cometbft/libs/fail	[no test files]
+ok  	github.com/cometbft/cometbft/libs/flowrate	0.933s
+ok  	github.com/cometbft/cometbft/libs/json	0.005s
+ok  	github.com/cometbft/cometbft/libs/log	0.005s
+ok  	github.com/cometbft/cometbft/libs/flowrate	0.933s
+ok  	github.com/cometbft/cometbft/libs/json	0.005s
+ok  	github.com/cometbft/cometbft/libs/log	0.005s
+ok  	github.com/cometbft/cometbft/libs/math	0.005s
+ok  	github.com/cometbft/cometbft/libs/net	0.003s
+ok  	github.com/cometbft/cometbft/libs/math	0.005s
+ok  	github.com/cometbft/cometbft/libs/net	0.003s
+ok  	github.com/cometbft/cometbft/libs/os	0.003s
+ok  	github.com/cometbft/cometbft/libs/progressbar	0.111s
+ok  	github.com/cometbft/cometbft/libs/os	0.003s
+ok  	github.com/cometbft/cometbft/libs/progressbar	0.111s
+ok  	github.com/cometbft/cometbft/libs/protoio	0.016s
+ok  	github.com/cometbft/cometbft/libs/pubsub	3.021s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query	0.007s
+ok  	github.com/cometbft/cometbft/libs/protoio	0.016s
+ok  	github.com/cometbft/cometbft/libs/pubsub	3.021s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query	0.007s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query/syntax	0.002s
+ok  	github.com/cometbft/cometbft/libs/rand	0.104s
+ok  	github.com/cometbft/cometbft/libs/pubsub/query/syntax	0.002s
+ok  	github.com/cometbft/cometbft/libs/rand	0.104s
+ok  	github.com/cometbft/cometbft/libs/service	0.002s
+ok  	github.com/cometbft/cometbft/libs/strings	0.002s
+?   	github.com/cometbft/cometbft/libs/sync	[no test files]
+ok  	github.com/cometbft/cometbft/libs/service	0.002s
+ok  	github.com/cometbft/cometbft/libs/strings	0.002s
+?   	github.com/cometbft/cometbft/libs/sync	[no test files]
+ok  	github.com/cometbft/cometbft/libs/tempfile	0.003s
+?   	github.com/cometbft/cometbft/libs/test	[no test files]
+ok  	github.com/cometbft/cometbft/libs/tempfile	0.003s
+?   	github.com/cometbft/cometbft/libs/test	[no test files]
+ok  	github.com/cometbft/cometbft/libs/timer	0.536s
+2026/11/13 03:39:24 verify from #2 to #108013 failed: invalid header: new header has a time from the future 2026-11-13 06:40:14.371890345 +0000 UTC (now: 2026-11-13 03:39:24.822221394 -0300 -03 m=+61.619207327; max clock drift: 10s)
+FAIL	github.com/cometbft/cometbft/light	61.630s
+ok  	github.com/cometbft/cometbft/libs/timer	0.536s
+2026/11/13 03:39:24 verify from #2 to #108013 failed: invalid header: new header has a time from the future 2026-11-13 06:40:14.371890345 +0000 UTC (now: 2026-11-13 03:39:24.822221394 -0300 -03 m=+61.619207327; max clock drift: 10s)
+FAIL	github.com/cometbft/cometbft/light	61.630s
+?   	github.com/cometbft/cometbft/light/provider	[no test files]
+CometBFT running!
+E[2026-11-13|03:38:32.721] Error serving server                         err="accept tcp 127.0.0.1:35577: use of closed network connection"
+E[2026-11-13|03:38:32.721] Error starting gRPC server                   err="accept tcp 127.0.0.1:33623: use of closed network connection"
+E[2026-11-13|03:38:32.721] Stopped accept routine, as transport is closed module=p2p numPeers=0
+--- FAIL: TestProvider (19.51s)
+    http_test.go:62: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:62
+        	Error:      	Should be true
+        	Test:       	TestProvider
+    http_test.go:77: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:77
+        	Error:      	Not equal: 
+        	            	expected: &errors.errorString{s:"height requested is too high"}
+        	            	actual  : &errors.errorString{s:"light block not found"}
+        	            	
+        	            	Diff:
+        	            	--- Expected
+        	            	+++ Actual
+        	            	@@ -1,3 +1,3 @@
+        	            	 (*errors.errorString)({
+        	            	- s: (string) (len=28) "height requested is too high"
+        	            	+ s: (string) (len=21) "light block not found"
+        	            	 })
+        	Test:       	TestProvider
+FAIL
+FAIL	github.com/cometbft/cometbft/light/provider/http	19.529s
+?   	github.com/cometbft/cometbft/light/provider/mock	[no test files]
+?   	github.com/cometbft/cometbft/light/provider	[no test files]
+CometBFT running!
+E[2026-11-13|03:38:32.721] Error serving server                         err="accept tcp 127.0.0.1:35577: use of closed network connection"
+E[2026-11-13|03:38:32.721] Error starting gRPC server                   err="accept tcp 127.0.0.1:33623: use of closed network connection"
+E[2026-11-13|03:38:32.721] Stopped accept routine, as transport is closed module=p2p numPeers=0
+--- FAIL: TestProvider (19.51s)
+    http_test.go:62: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:62
+        	Error:      	Should be true
+        	Test:       	TestProvider
+    http_test.go:77: 
+        	Error Trace:	/home/lucas/github/blockchain/repositories/cometbft/light/provider/http/http_test.go:77
+        	Error:      	Not equal: 
+        	            	expected: &errors.errorString{s:"height requested is too high"}
+        	            	actual  : &errors.errorString{s:"light block not found"}
+        	            	
+        	            	Diff:
+        	            	--- Expected
+        	            	+++ Actual
+        	            	@@ -1,3 +1,3 @@
+        	            	 (*errors.errorString)({
+        	            	- s: (string) (len=28) "height requested is too high"
+        	            	+ s: (string) (len=21) "light block not found"
+        	            	 })
+        	Test:       	TestProvider
+FAIL
+FAIL	github.com/cometbft/cometbft/light/provider/http	19.529s
+?   	github.com/cometbft/cometbft/light/provider/mock	[no test files]
+?   	github.com/cometbft/cometbft/light/proxy	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc/mocks	[no test files]
+?   	github.com/cometbft/cometbft/light/proxy	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc	[no test files]
+?   	github.com/cometbft/cometbft/light/rpc/mocks	[no test files]
+?   	github.com/cometbft/cometbft/light/store	[no test files]
+?   	github.com/cometbft/cometbft/light/store	[no test files]
+ok  	github.com/cometbft/cometbft/light/store/db	0.013s
+ok  	github.com/cometbft/cometbft/lp2p	8.879s
+ok  	github.com/cometbft/cometbft/light/store/db	0.013s
+ok  	github.com/cometbft/cometbft/lp2p	8.879s
+ok  	github.com/cometbft/cometbft/mempool	11.949s
+?   	github.com/cometbft/cometbft/mempool/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/mempool	11.949s
+?   	github.com/cometbft/cometbft/mempool/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/node	5.446s
+ok  	github.com/cometbft/cometbft/node	5.446s
+ok  	github.com/cometbft/cometbft/p2p	11.313s
+ok  	github.com/cometbft/cometbft/p2p	11.313s
+ok  	github.com/cometbft/cometbft/p2p/conn	5.794s
+?   	github.com/cometbft/cometbft/p2p/mock	[no test files]
+?   	github.com/cometbft/cometbft/p2p/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/p2p/conn	5.794s
+?   	github.com/cometbft/cometbft/p2p/mock	[no test files]
+?   	github.com/cometbft/cometbft/p2p/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/p2p/pex	11.331s
+ok  	github.com/cometbft/cometbft/privval	24.582s
+ok  	github.com/cometbft/cometbft/p2p/pex	11.331s
+ok  	github.com/cometbft/cometbft/privval	24.582s
+?   	github.com/cometbft/cometbft/proto/tendermint/blocksync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/consensus	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/crypto	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/blocksync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/consensus	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/crypto	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/libs/bits	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/mempool	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/libs/bits	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/mempool	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/p2p	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/privval	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/rpc/grpc	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/p2p	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/privval	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/rpc/grpc	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/state	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/statesync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/store	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/state	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/statesync	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/store	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/types	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/version	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/types	[no test files]
+?   	github.com/cometbft/cometbft/proto/tendermint/version	[no test files]
+ok  	github.com/cometbft/cometbft/proxy	0.130s
+?   	github.com/cometbft/cometbft/proxy/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/client	6.764s
+ok  	github.com/cometbft/cometbft/proxy	0.130s
+?   	github.com/cometbft/cometbft/proxy/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/client	6.764s
+?   	github.com/cometbft/cometbft/rpc/client/http	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/local	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/http	[no test files]
+?   	github.com/cometbft/cometbft/rpc/client/local	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/client/mock	0.013s
+?   	github.com/cometbft/cometbft/rpc/client/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/core	0.017s
+ok  	github.com/cometbft/cometbft/rpc/client/mock	0.013s
+?   	github.com/cometbft/cometbft/rpc/client/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/core	0.017s
+ok  	github.com/cometbft/cometbft/rpc/core/types	0.009s
+ok  	github.com/cometbft/cometbft/rpc/grpc	0.028s
+ok  	github.com/cometbft/cometbft/rpc/core/types	0.009s
+ok  	github.com/cometbft/cometbft/rpc/grpc	0.028s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc	8.018s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/client	8.852s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/server	0.144s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc	8.018s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/client	8.852s
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/server	0.144s
+?   	github.com/cometbft/cometbft/rpc/jsonrpc/test	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/types	0.003s
+?   	github.com/cometbft/cometbft/rpc/jsonrpc/test	[no test files]
+ok  	github.com/cometbft/cometbft/rpc/jsonrpc/types	0.003s
+?   	github.com/cometbft/cometbft/rpc/test	[no test files]
+?   	github.com/cometbft/cometbft/scripts/json2wal	[no test files]
+ok  	github.com/cometbft/cometbft/scripts/metricsgen	0.006s
+?   	github.com/cometbft/cometbft/rpc/test	[no test files]
+?   	github.com/cometbft/cometbft/scripts/json2wal	[no test files]
+ok  	github.com/cometbft/cometbft/scripts/metricsgen	0.006s
+ok  	github.com/cometbft/cometbft/scripts/metricsgen/metricsdiff	0.003s
+?   	github.com/cometbft/cometbft/scripts/wal2json	[no test files]
+ok  	github.com/cometbft/cometbft/state	1.937s
+ok  	github.com/cometbft/cometbft/scripts/metricsgen/metricsdiff	0.003s
+?   	github.com/cometbft/cometbft/scripts/wal2json	[no test files]
+ok  	github.com/cometbft/cometbft/state	1.937s
+?   	github.com/cometbft/cometbft/state/indexer	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/block	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/block	[no test files]
+ok  	github.com/cometbft/cometbft/state/indexer/block/kv	0.009s
+?   	github.com/cometbft/cometbft/state/indexer/block/null	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/state/indexer/block/kv	0.009s
+?   	github.com/cometbft/cometbft/state/indexer/block/null	[no test files]
+?   	github.com/cometbft/cometbft/state/indexer/mocks	[no test files]
+2026/11/13 03:38:36 Starting docker pool: : dial unix /var/run/docker.sock: connect: no such file or directory
+FAIL	github.com/cometbft/cometbft/state/indexer/sink/psql	0.008s
+?   	github.com/cometbft/cometbft/state/mocks	[no test files]
+2026/11/13 03:38:36 Starting docker pool: : dial unix /var/run/docker.sock: connect: no such file or directory
+FAIL	github.com/cometbft/cometbft/state/indexer/sink/psql	0.008s
+?   	github.com/cometbft/cometbft/state/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/state/txindex	0.109s
+ok  	github.com/cometbft/cometbft/state/txindex/kv	0.013s
+?   	github.com/cometbft/cometbft/state/txindex/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/state/txindex	0.109s
+ok  	github.com/cometbft/cometbft/state/txindex/kv	0.013s
+?   	github.com/cometbft/cometbft/state/txindex/mocks	[no test files]
+?   	github.com/cometbft/cometbft/state/txindex/null	[no test files]
+ok  	github.com/cometbft/cometbft/statesync	3.090s
+?   	github.com/cometbft/cometbft/statesync/mocks	[no test files]
+?   	github.com/cometbft/cometbft/state/txindex/null	[no test files]
+ok  	github.com/cometbft/cometbft/statesync	3.090s
+?   	github.com/cometbft/cometbft/statesync/mocks	[no test files]
+ok  	github.com/cometbft/cometbft/store	0.073s
+?   	github.com/cometbft/cometbft/test/app	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/app	[no test files]
+ok  	github.com/cometbft/cometbft/store	0.073s
+?   	github.com/cometbft/cometbft/test/app	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/app	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/generator	0.018s
+?   	github.com/cometbft/cometbft/test/e2e/node	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/generator	0.018s
+?   	github.com/cometbft/cometbft/test/e2e/node	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/pkg	0.029s
+?   	github.com/cometbft/cometbft/test/e2e/pkg/exec	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/pkg	0.029s
+?   	github.com/cometbft/cometbft/test/e2e/pkg/exec	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/digitalocean	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/docker	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/runner	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/digitalocean	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/pkg/infra/docker	[no test files]
+?   	github.com/cometbft/cometbft/test/e2e/runner	[no test files]
+ok  	github.com/cometbft/cometbft/test/e2e/tests	0.012s
+ok  	github.com/cometbft/cometbft/test/fuzz/mempool	0.011s
+ok  	github.com/cometbft/cometbft/test/e2e/tests	0.012s
+ok  	github.com/cometbft/cometbft/test/fuzz/mempool	0.011s
+ok  	github.com/cometbft/cometbft/test/fuzz/tests	0.016s
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/load	[no test files]
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/report	[no test files]
+ok  	github.com/cometbft/cometbft/test/loadtime/payload	0.003s
+ok  	github.com/cometbft/cometbft/test/loadtime/report	0.007s
+ok  	github.com/cometbft/cometbft/test/fuzz/tests	0.016s
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/load	[no test files]
+?   	github.com/cometbft/cometbft/test/loadtime/cmd/report	[no test files]
+ok  	github.com/cometbft/cometbft/test/loadtime/payload	0.003s
+ok  	github.com/cometbft/cometbft/test/loadtime/report	0.007s
+?   	github.com/cometbft/cometbft/test/utils	[no test files]
+ok  	github.com/cometbft/cometbft/types	3.046s
+?   	github.com/cometbft/cometbft/test/utils	[no test files]
+ok  	github.com/cometbft/cometbft/types	3.046s
+?   	github.com/cometbft/cometbft/types/errors	[no test files]
+ok  	github.com/cometbft/cometbft/types/time	0.002s
+?   	github.com/cometbft/cometbft/types/errors	[no test files]
+ok  	github.com/cometbft/cometbft/types/time	0.002s
+?   	github.com/cometbft/cometbft/version	[no test files]
+FAIL
+?   	github.com/cometbft/cometbft/version	[no test files]
+FAIL

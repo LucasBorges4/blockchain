@@ -1,0 +1,16 @@
+ImportError while loading conftest '/home/lucas/github/blockchain/repositories/honeybadger/test/conftest.py'.
+ImportError while loading conftest '/home/lucas/github/blockchain/repositories/honeybadger/test/conftest.py'.
+test/conftest.py:3: in <module>
+test/conftest.py:3: in <module>
+    from logutils.colorize import ColorizingStreamHandler
+E   ModuleNotFoundError: No module named 'logutils'
+    from logutils.colorize import ColorizingStreamHandler
+E   ModuleNotFoundError: No module named 'logutils'
+ImportError while loading conftest '/home/lucas/github/blockchain/repositories/honeybadger/test/conftest.py'.
+ImportError while loading conftest '/home/lucas/github/blockchain/repositories/honeybadger/test/conftest.py'.
+test/conftest.py:3: in <module>
+test/conftest.py:3: in <module>
+    from logutils.colorize import ColorizingStreamHandler
+E   ModuleNotFoundError: No module named 'logutils'
+    from logutils.colorize import ColorizingStreamHandler
+E   ModuleNotFoundError: No module named 'logutils'

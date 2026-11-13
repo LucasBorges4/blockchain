@@ -1,0 +1,24 @@
+ Downloading crates ...
+ Downloading crates ...
+  Downloaded bit-set v0.11.1
+  Downloaded bit-set v0.11.1
+  Downloaded core_detect v1.0.0
+  Downloaded core_detect v1.0.0
+  Downloaded bencher v0.1.5
+  Downloaded bencher v0.1.5
+  Downloaded bit-vec v0.10.1
+  Downloaded bit-vec v0.10.1
+  Downloaded proptest v1.12.0
+  Downloaded proptest v1.12.0
+  Downloaded rand_xorshift v0.5.0
+  Downloaded rand_xorshift v0.5.0
+  Downloaded serial_test v4.0.1
+  Downloaded serial_test v4.0.1
+  Downloaded serial_test_derive v4.0.1
+  Downloaded serial_test_derive v4.0.1
+error: package ID specification `solana-sdk` did not match any packages
+
+help: a package with a similar name exists: `solana-svm`
+error: package ID specification `solana-sdk` did not match any packages
+
+help: a package with a similar name exists: `solana-svm`

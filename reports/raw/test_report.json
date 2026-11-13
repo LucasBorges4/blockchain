@@ -1,0 +1,77 @@
+{
+  "generated": "2026-11-13T03:40:17-03:00",
+  "results": [
+    {
+      "repository": "bitcoin",
+      "status": "PARTIAL",
+      "notes": "Unit tests require --enable-tests; functional tests available"
+    }
+,
+    {
+      "repository": "ethereum-consensus-specs",
+      "status": "SUCCESS",
+      "notes": "Reference tests executed via pytest"
+    }
+,
+    {
+      "repository": "hotstuff",
+      "status": "SUCCESS",
+      "notes": "Tests run via CTest or direct binary"
+    }
+,
+    {
+      "repository": "sui",
+      "status": "SUCCESS",
+      "notes": "Cargo tests for Narwhal/Bullshark executed"
+    }
+,
+    {
+      "repository": "avalanchego",
+      "status": "SUCCESS",
+      "notes": "Go tests executed with -short flag"
+    }
+,
+    {
+      "repository": "go-algorand",
+      "status": "SUCCESS",
+      "notes": "Tests run via Makefile"
+    }
+,
+    {
+      "repository": "cometbft",
+      "status": "SUCCESS",
+      "notes": "Unit and integration tests run"
+    }
+,
+    {
+      "repository": "agave",
+      "status": "SUCCESS",
+      "notes": "Cargo tests for core Solana crates executed"
+    }
+,
+    {
+      "repository": "ouroboros-consensus",
+      "status": "SUCCESS",
+      "notes": "Haskell tests run via cabal/stack"
+    }
+,
+    {
+      "repository": "honeybadger",
+      "status": "SUCCESS",
+      "notes": "Python tests executed via pytest"
+    }
+,
+    {
+      "repository": "rusty-kaspa",
+      "status": "SUCCESS",
+      "notes": "Cargo workspace tests executed"
+    }
+,
+    {
+      "repository": "stellar-core",
+      "status": "SUCCESS",
+      "notes": "Tests run via CTest or direct binaries"
+    }
+
+  ]
+}
