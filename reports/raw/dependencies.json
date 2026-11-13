@@ -1,0 +1,16 @@
+{
+  "generated": "2026-11-13T02:58:25-03:00",
+  "system": {
+    "git": "2.56.0",
+    "make": "4.4.1",
+    "cmake": "4.4.4",
+    "gcc": "16.2",
+    "clang": "23.1",
+    "go": "1.27",
+    "rustc": "not_found",
+    "cargo": "not_found",
+    "ghc": "9.6.7",
+    "python3": "3.14",
+    "docker": "29.8.2"
+  }
+}

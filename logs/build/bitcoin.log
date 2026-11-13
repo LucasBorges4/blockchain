@@ -1,0 +1,618 @@
+scripts/build_all.sh: linha 66: ./autogen.sh: Arquivo ou diretório inexistente
+scripts/build_all.sh: linha 70: ./configure: Arquivo ou diretório inexistente
+scripts/build_all.sh: linha 70: ./configure: Arquivo ou diretório inexistente
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+-- The CXX compiler identification is GNU 16.2.1
+-- The CXX compiler identification is GNU 16.2.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Detecting CXX compile features - done
+-- Performing Test CXX_SUPPORTS__WERROR
+-- Performing Test CXX_SUPPORTS__WERROR
+-- Performing Test CXX_SUPPORTS__WERROR - Success
+-- Performing Test CXX_SUPPORTS__WERROR - Success
+-- Performing Test CXX_SUPPORTS__G3
+-- Performing Test CXX_SUPPORTS__G3
+-- Performing Test CXX_SUPPORTS__G3 - Success
+-- Performing Test CXX_SUPPORTS__G3 - Success
+-- Performing Test LINKER_SUPPORTS__G3
+-- Performing Test LINKER_SUPPORTS__G3
+-- Performing Test LINKER_SUPPORTS__G3 - Success
+-- Performing Test LINKER_SUPPORTS__G3 - Success
+-- Performing Test CXX_SUPPORTS__FTRAPV
+-- Performing Test CXX_SUPPORTS__FTRAPV
+-- Performing Test CXX_SUPPORTS__FTRAPV - Success
+-- Performing Test CXX_SUPPORTS__FTRAPV - Success
+-- Performing Test LINKER_SUPPORTS__FTRAPV
+-- Performing Test LINKER_SUPPORTS__FTRAPV
+-- Performing Test LINKER_SUPPORTS__FTRAPV - Success
+-- Performing Test LINKER_SUPPORTS__FTRAPV - Success
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Found Threads: TRUE
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
+[0;31m[2026-11-12 23:30:18] ✗[0m CMake configuration failed
++ mkdir -p build
++ cd build
++ cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_BITCOIN_WALLET=OFF -DBUILD_BITCOIN_TESTS=OFF -DBUILD_BITCOIN_BENCH=OFF -DBUILD_GUI=OFF ..
++ tee -a /home/lucas/github/blockchain/logs/build/bitcoin.log
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
++ [[ 1 -ne 0 ]]
++ error 'CMake configuration failed'
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo -e '\033[0;31m[2026-11-12 23:30:38] ✗\033[0m CMake configuration failed'
+[0;31m[2026-11-12 23:30:38] ✗[0m CMake configuration failed
++ record_result bitcoin FAILED 'CMake configuration failed (missing Boost?)'
++ local repo=bitcoin
++ local status=FAILED
++ local 'notes=CMake configuration failed (missing Boost?)'
++ BUILD_RESULTS["$repo"]=FAILED
++ BUILD_NOTES["$repo"]='CMake configuration failed (missing Boost?)'
++ return 1
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
+[0;31m[2026-11-12 23:30:58] ✗[0m CMake configuration failed
++ mkdir -p build
++ cd build
++ cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_BITCOIN_WALLET=OFF -DBUILD_BITCOIN_TESTS=OFF -DBUILD_BITCOIN_BENCH=OFF -DBUILD_GUI=OFF ..
++ tee -a /home/lucas/github/blockchain/logs/build/bitcoin.log
+-- Checking for required C++ features
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Configuring incomplete, errors occurred!
++ [[ 1 -ne 0 ]]
++ error 'CMake configuration failed'
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo -e '\033[0;31m[2026-11-12 23:31:03] ✗\033[0m CMake configuration failed'
+[0;31m[2026-11-12 23:31:03] ✗[0m CMake configuration failed
++ exit 1
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+CMake Error at cmake/module/AddBoostIfNeeded.cmake:32 (find_package):
+  Could not find a package configuration file provided by "Boost" (requested
+  version 1.74.0) with any of the following names:
+
+    Boost.cps
+    boost.cps
+    BoostConfig.cmake
+    boost-config.cmake
+
+  Add the installation prefix of "Boost" to CMAKE_PREFIX_PATH or set
+  "Boost_DIR" to a directory containing one of the above files.  If "Boost"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  CMakeLists.txt:226 (add_boost_if_needed)
+
+
+-- Configuring incomplete, errors occurred!
+-- Checking for required C++ features
+-- Checking for required C++ features - done
+-- Performing Test NO_DIAGNOSTICS_BOOST_NO_CXX98_FUNCTION_BASE
+-- Performing Test NO_DIAGNOSTICS_BOOST_NO_CXX98_FUNCTION_BASE - Success
+-- Found SQLite3: /usr/lib/libsqlite3.so (found suitable version "3.53.4", minimum required is "3.7.17")
+-- Performing Test LINKER_SUPPORTS__WL___FATAL_WARNINGS
+-- Performing Test LINKER_SUPPORTS__WL___FATAL_WARNINGS - Success
+-- Looking for O_CLOEXEC
+-- Looking for O_CLOEXEC - found
+-- Looking for fdatasync
+-- Looking for fdatasync - found
+-- Looking for fork
+-- Looking for fork - found
+-- Looking for pipe2
+-- Looking for pipe2 - found
+-- Looking for setsid
+-- Looking for setsid - found
+-- Performing Test IFADDR_LINKS_WITHOUT_LIBSOCKET
+-- Performing Test IFADDR_LINKS_WITHOUT_LIBSOCKET - Success
+-- Performing Test STD_ATOMIC_LINKS_WITHOUT_LIBATOMIC
+-- Performing Test STD_ATOMIC_LINKS_WITHOUT_LIBATOMIC - Success
+-- Looking for std::system
+-- Looking for std::system - found
+-- Performing Test STRERROR_R_CHAR_P
+-- Performing Test STRERROR_R_CHAR_P - Success
+-- Looking for malloc_info
+-- Looking for malloc_info - found
+-- Performing Test HAVE_MALLOPT_ARENA_MAX
+-- Performing Test HAVE_MALLOPT_ARENA_MAX - Success
+-- Performing Test HAVE_POSIX_FALLOCATE
+-- Performing Test HAVE_POSIX_FALLOCATE - Success
+-- Performing Test HAVE_STRONG_GETAUXVAL
+-- Performing Test HAVE_STRONG_GETAUXVAL - Success
+-- Performing Test HAVE_SOCKADDR_UN
+-- Performing Test HAVE_SOCKADDR_UN - Success
+-- Performing Test HAVE_GETRANDOM
+-- Performing Test HAVE_GETRANDOM - Success
+-- Performing Test HAVE_GETENTROPY_RAND
+-- Performing Test HAVE_GETENTROPY_RAND - Success
+-- Performing Test HAVE_SYSCTL
+-- Performing Test HAVE_SYSCTL - Failed
+-- Performing Test HAVE_SYSCTL_ARND
+-- Performing Test HAVE_SYSCTL_ARND - Failed
+-- Performing Test HAVE_SSE41
+-- Performing Test HAVE_SSE41 - Success
+-- Performing Test HAVE_AVX2
+-- Performing Test HAVE_AVX2 - Success
+-- Performing Test HAVE_X86_SHANI
+-- Performing Test HAVE_X86_SHANI - Success
+-- Performing Test HAVE_ARM_SHANI
+-- Performing Test HAVE_ARM_SHANI - Failed
+-- Performing Test CXX_SUPPORTS__WALL
+-- Performing Test CXX_SUPPORTS__WALL - Success
+-- Performing Test CXX_SUPPORTS__WEXTRA
+-- Performing Test CXX_SUPPORTS__WEXTRA - Success
+-- Performing Test CXX_SUPPORTS__WGNU
+-- Performing Test CXX_SUPPORTS__WGNU - Failed
+-- Performing Test CXX_SUPPORTS__WCOVERED_SWITCH_DEFAULT
+-- Performing Test CXX_SUPPORTS__WCOVERED_SWITCH_DEFAULT - Failed
+-- Performing Test CXX_SUPPORTS__WFORMAT__WFORMAT_SECURITY
+-- Performing Test CXX_SUPPORTS__WFORMAT__WFORMAT_SECURITY - Success
+-- Performing Test CXX_SUPPORTS__WVLA
+-- Performing Test CXX_SUPPORTS__WVLA - Success
+-- Performing Test CXX_SUPPORTS__WSHADOW_FIELD
+-- Performing Test CXX_SUPPORTS__WSHADOW_FIELD - Failed
+-- Performing Test CXX_SUPPORTS__WTHREAD_SAFETY
+-- Performing Test CXX_SUPPORTS__WTHREAD_SAFETY - Failed
+-- Performing Test CXX_SUPPORTS__WTHREAD_SAFETY_POINTER
+-- Performing Test CXX_SUPPORTS__WTHREAD_SAFETY_POINTER - Failed
+-- Performing Test CXX_SUPPORTS__WLOOP_ANALYSIS
+-- Performing Test CXX_SUPPORTS__WLOOP_ANALYSIS - Failed
+-- Performing Test CXX_SUPPORTS__WREDUNDANT_DECLS
+-- Performing Test CXX_SUPPORTS__WREDUNDANT_DECLS - Success
+-- Performing Test CXX_SUPPORTS__WUNUSED_CONST_VARIABLE
+-- Performing Test CXX_SUPPORTS__WUNUSED_CONST_VARIABLE - Success
+-- Performing Test CXX_SUPPORTS__WUNUSED_EXCEPTION_PARAMETER
+-- Performing Test CXX_SUPPORTS__WUNUSED_EXCEPTION_PARAMETER - Failed
+-- Performing Test CXX_SUPPORTS__WUNUSED_MACROS
+-- Performing Test CXX_SUPPORTS__WUNUSED_MACROS - Success
+-- Performing Test CXX_SUPPORTS__WUNUSED_MEMBER_FUNCTION
+-- Performing Test CXX_SUPPORTS__WUNUSED_MEMBER_FUNCTION - Failed
+-- Performing Test CXX_SUPPORTS__WUNUSED_TEMPLATE
+-- Performing Test CXX_SUPPORTS__WUNUSED_TEMPLATE - Failed
+-- Performing Test CXX_SUPPORTS__WDATE_TIME
+-- Performing Test CXX_SUPPORTS__WDATE_TIME - Success
+-- Performing Test CXX_SUPPORTS__WCONDITIONAL_UNINITIALIZED
+-- Performing Test CXX_SUPPORTS__WCONDITIONAL_UNINITIALIZED - Failed
+-- Performing Test CXX_SUPPORTS__WDUPLICATED_BRANCHES
+-- Performing Test CXX_SUPPORTS__WDUPLICATED_BRANCHES - Success
+-- Performing Test CXX_SUPPORTS__WDUPLICATED_COND
+-- Performing Test CXX_SUPPORTS__WDUPLICATED_COND - Success
+-- Performing Test CXX_SUPPORTS__WLOGICAL_OP
+-- Performing Test CXX_SUPPORTS__WLOGICAL_OP - Success
+-- Performing Test CXX_SUPPORTS__WOVERLOADED_VIRTUAL
+-- Performing Test CXX_SUPPORTS__WOVERLOADED_VIRTUAL - Success
+-- Performing Test CXX_SUPPORTS__WSUGGEST_OVERRIDE
+-- Performing Test CXX_SUPPORTS__WSUGGEST_OVERRIDE - Success
+-- Performing Test CXX_SUPPORTS__WIMPLICIT_FALLTHROUGH
+-- Performing Test CXX_SUPPORTS__WIMPLICIT_FALLTHROUGH - Success
+-- Performing Test CXX_SUPPORTS__WUNREACHABLE_CODE_AGGRESSIVE
+-- Performing Test CXX_SUPPORTS__WUNREACHABLE_CODE_AGGRESSIVE - Failed
+-- Performing Test CXX_SUPPORTS__WDOCUMENTATION
+-- Performing Test CXX_SUPPORTS__WDOCUMENTATION - Failed
+-- Performing Test CXX_SUPPORTS__WSELF_ASSIGN
+-- Performing Test CXX_SUPPORTS__WSELF_ASSIGN - Failed
+-- Performing Test CXX_SUPPORTS__WBIDI_CHARS_ANY
+-- Performing Test CXX_SUPPORTS__WBIDI_CHARS_ANY - Success
+-- Performing Test CXX_SUPPORTS__WUNDEF
+-- Performing Test CXX_SUPPORTS__WUNDEF - Success
+-- Performing Test CXX_SUPPORTS__WLEADING_WHITESPACE_SPACES
+-- Performing Test CXX_SUPPORTS__WLEADING_WHITESPACE_SPACES - Success
+-- Performing Test CXX_SUPPORTS__WTRAILING_WHITESPACE_ANY
+-- Performing Test CXX_SUPPORTS__WTRAILING_WHITESPACE_ANY - Success
+-- Performing Test CXX_SUPPORTS__WUNUSED_PARAMETER
+-- Performing Test CXX_SUPPORTS__WUNUSED_PARAMETER - Success
+-- Performing Test CXX_SUPPORTS__WC__23_LAMBDA_ATTRIBUTES
+-- Performing Test CXX_SUPPORTS__WC__23_LAMBDA_ATTRIBUTES - Failed
+-- Performing Test CXX_SUPPORTS__FNO_EXTENDED_IDENTIFIERS
+-- Performing Test CXX_SUPPORTS__FNO_EXTENDED_IDENTIFIERS - Success
+-- Performing Test CXX_SUPPORTS__FMACRO_PREFIX_MAP_A_B
+-- Performing Test CXX_SUPPORTS__FMACRO_PREFIX_MAP_A_B - Success
+-- Performing Test CXX_SUPPORTS__FSTACK_REUSE_NONE
+-- Performing Test CXX_SUPPORTS__FSTACK_REUSE_NONE - Success
+-- Performing Test LINKER_SUPPORTS__FSTACK_REUSE_NONE
+-- Performing Test LINKER_SUPPORTS__FSTACK_REUSE_NONE - Success
+-- Performing Test CXX_SUPPORTS__U_FORTIFY_SOURCE__D_FORTIFY_SOURCE_3_2d08
+-- Performing Test CXX_SUPPORTS__U_FORTIFY_SOURCE__D_FORTIFY_SOURCE_3_2d08 - Success
+-- Performing Test LINKER_SUPPORTS__U_FORTIFY_SOURCE__D_FORTIFY_SOURCE_3_2d08
+-- Performing Test LINKER_SUPPORTS__U_FORTIFY_SOURCE__D_FORTIFY_SOURCE_3_2d08 - Success
+-- Performing Test CXX_SUPPORTS__WSTACK_PROTECTOR
+-- Performing Test CXX_SUPPORTS__WSTACK_PROTECTOR - Success
+-- Performing Test CXX_SUPPORTS__FSTACK_PROTECTOR_ALL
+-- Performing Test CXX_SUPPORTS__FSTACK_PROTECTOR_ALL - Success
+-- Performing Test LINKER_SUPPORTS__FSTACK_PROTECTOR_ALL
+-- Performing Test LINKER_SUPPORTS__FSTACK_PROTECTOR_ALL - Success
+-- Performing Test CXX_SUPPORTS__FCF_PROTECTION_FULL
+-- Performing Test CXX_SUPPORTS__FCF_PROTECTION_FULL - Success
+-- Performing Test LINKER_SUPPORTS__FCF_PROTECTION_FULL
+-- Performing Test LINKER_SUPPORTS__FCF_PROTECTION_FULL - Success
+-- Performing Test CXX_SUPPORTS__FSTACK_CLASH_PROTECTION
+-- Performing Test CXX_SUPPORTS__FSTACK_CLASH_PROTECTION - Success
+-- Performing Test LINKER_SUPPORTS__FSTACK_CLASH_PROTECTION
+-- Performing Test LINKER_SUPPORTS__FSTACK_CLASH_PROTECTION - Success
+-- Performing Test LINKER_SUPPORTS__WL___ENABLE_RELOC_SECTION
+-- Performing Test LINKER_SUPPORTS__WL___ENABLE_RELOC_SECTION - Failed
+-- Performing Test LINKER_SUPPORTS__WL___DYNAMICBASE
+-- Performing Test LINKER_SUPPORTS__WL___DYNAMICBASE - Failed
+-- Performing Test LINKER_SUPPORTS__WL___NXCOMPAT
+-- Performing Test LINKER_SUPPORTS__WL___NXCOMPAT - Failed
+-- Performing Test LINKER_SUPPORTS__WL___HIGH_ENTROPY_VA
+-- Performing Test LINKER_SUPPORTS__WL___HIGH_ENTROPY_VA - Failed
+-- Performing Test LINKER_SUPPORTS__WL__Z_RELRO
+-- Performing Test LINKER_SUPPORTS__WL__Z_RELRO - Success
+-- Performing Test LINKER_SUPPORTS__WL__Z_NOW
+-- Performing Test LINKER_SUPPORTS__WL__Z_NOW - Success
+-- Performing Test LINKER_SUPPORTS__WL__Z_SEPARATE_CODE
+-- Performing Test LINKER_SUPPORTS__WL__Z_SEPARATE_CODE - Success
+-- Found Python3: /home/lucas/.local/bin/python3.11 (found suitable version "3.11.16", minimum required is "3.10") found components: Interpreter
+-- Could NOT find Doxygen (missing: dot) (found version "1.18.0")
+-- Performing Test HAVE_BUILTIN_PREFETCH
+-- Performing Test HAVE_BUILTIN_PREFETCH - Success
+-- Performing Test HAVE_MM_PREFETCH
+-- Performing Test HAVE_MM_PREFETCH - Success
+-- Performing Test HAVE_SSE42
+-- Performing Test HAVE_SSE42 - Success
+-- Performing Test HAVE_ARM64_CRC32C
+-- Performing Test HAVE_ARM64_CRC32C - Failed
+-- Looking for F_FULLFSYNC
+-- Looking for F_FULLFSYNC - not found
+-- Performing Test HAVE_CLMUL
+-- Performing Test HAVE_CLMUL - Success
+-- Could NOT find CapnProto (missing: CapnProto_DIR)
+[31mCMake Error at src/ipc/libmultiprocess/CMakeLists.txt:18 (message):
+  Cap'n Proto is required but was not found.
+
+  To resolve, choose one of the following:
+
+    - Install Cap'n Proto (version 1.0+ recommended)
+    - For Bitcoin Core compilation build with -DENABLE_IPC=OFF to disable multiprocess support
+
+
+[0m
+-- Configuring incomplete, errors occurred!

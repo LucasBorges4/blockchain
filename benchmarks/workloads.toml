@@ -1,0 +1,62 @@
+# Experiment Workloads Configuration
+# This file defines standard workloads for benchmarking
+
+# Basic functionality test
+[workload.basic]
+name = "Basic Functionality"
+description = "Verify consensus establishment and basic operation processing"
+tx_count = 100
+msg_size = 256
+duration = 60
+nodes = 4
+
+# Scalability test - varying node counts
+[workload.scalability]
+name = "Scalability"
+description = "Measure performance as node count increases"
+tx_count = 1000
+msg_size = 256
+duration = 120
+node_counts = [4, 7, 10, 16, 25, 50]
+
+# Latency test - measure confirmation time
+[workload.latency]
+name = "Latency"
+description = "Measure time from submission to confirmation"
+tx_count = 10000
+msg_size = 256
+duration = 300
+nodes = 4
+measure_latency = true
+
+# Throughput test - varying load
+[workload.throughput]
+name = "Throughput"
+description = "Measure maximum sustainable throughput"
+tx_counts = [100, 1000, 10000, 100000]
+msg_size = 256
+duration = 300
+nodes = 4
+
+# Fault tolerance test
+[workload.fault_tolerance]
+name = "Fault Tolerance"
+description = "Test consensus under various failure scenarios"
+tx_count = 1000
+msg_size = 256
+duration = 180
+nodes = 7
+scenarios = ["node_crash", "leader_crash", "partition", "byzantine", "recovery"]
+
+# Network conditions test
+[workload.network_conditions]
+name = "Network Conditions"
+description = "Test consensus under adverse network conditions"
+tx_count = 1000
+msg_size = 256
+duration = 120
+nodes = 4
+latencies_ms = [0, 10, 50, 100, 200]
+jitter_ms = [0, 5, 10, 20]
+loss_pct = [0, 0.1, 1, 5]
+bandwidth_mbps = [0, 10, 100, 1000]

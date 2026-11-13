@@ -1,0 +1,122 @@
+[
+  {
+    "name": "bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin.git",
+    "subdir": "bitcoin",
+    "commit": "9183edd25e60aa410bc3e4728989a1d75c309a09",
+    "short_commit": "9183edd25e60",
+    "branch": "master",
+    "date": "2026-11-12 20:19:04 +0100"
+  }
+,
+  {
+    "name": "ethereum-consensus-specs",
+    "url": "https://github.com/ethereum/consensus-specs.git",
+    "subdir": "ethereum-consensus-specs",
+    "commit": "e3e2d0128458c2f56092bd459d3c5a85cdf80fcd",
+    "short_commit": "e3e2d0128458",
+    "branch": "master",
+    "date": "2026-11-12 13:20:00 -0600"
+  }
+,
+  {
+    "name": "hotstuff",
+    "url": "https://github.com/relab/hotstuff.git",
+    "subdir": "hotstuff",
+    "commit": "3179c6e62929294961acbfd9bf8445769716a121",
+    "short_commit": "3179c6e62929",
+    "branch": "main",
+    "date": "2026-07-14 21:49:50 -0700"
+  }
+,
+  {
+    "name": "sui",
+    "url": "https://github.com/MystenLabs/sui.git",
+    "subdir": "sui",
+    "commit": "e8709623af24943fbd5de821d9aa9c4ffd95b2af",
+    "short_commit": "e8709623af24",
+    "branch": "main",
+    "date": "2026-11-12 18:59:30 -0600"
+  }
+,
+  {
+    "name": "avalanchego",
+    "url": "https://github.com/ava-labs/avalanchego.git",
+    "subdir": "avalanchego",
+    "commit": "fc7aea9f05e508ced259a26fb03343fc74f1685d",
+    "short_commit": "fc7aea9f05e5",
+    "branch": "master",
+    "date": "2026-11-13 03:15:33 +0000"
+  }
+,
+  {
+    "name": "go-algorand",
+    "url": "https://github.com/algorand/go-algorand.git",
+    "subdir": "go-algorand",
+    "commit": "e46aea5466a1152af6e08f83555ed16cfcd89f49",
+    "short_commit": "e46aea5466a1",
+    "branch": "master",
+    "date": "2026-11-05 13:09:09 -0500"
+  }
+,
+  {
+    "name": "cometbft",
+    "url": "https://github.com/cometbft/cometbft.git",
+    "subdir": "cometbft",
+    "commit": "7993fe0c866aa3fbb797d1d1e1931ba36e7b347c",
+    "short_commit": "7993fe0c866a",
+    "branch": "main",
+    "date": "2026-11-09 04:53:06 +0000"
+  }
+,
+  {
+    "name": "agave",
+    "url": "https://github.com/anza-xyz/agave.git",
+    "subdir": "agave",
+    "commit": "e81030ea5672b0a90b350dd85899150cbd6066a7",
+    "short_commit": "e81030ea5672",
+    "branch": "master",
+    "date": "2026-11-13 05:01:34 +0000"
+  }
+,
+  {
+    "name": "ouroboros-consensus",
+    "url": "https://github.com/IntersectMBO/ouroboros-consensus.git",
+    "subdir": "ouroboros-consensus",
+    "commit": "e23469f66f4f8eff667676e4395d520acdc2d341",
+    "short_commit": "e23469f66f4f",
+    "branch": "main",
+    "date": "2026-11-12 10:27:51 +0100"
+  }
+,
+  {
+    "name": "honeybadger",
+    "url": "https://github.com/initc3/HoneyBadgerBFT-Python.git",
+    "subdir": "honeybadger",
+    "commit": "e8bcbc081dfb5d1e7298039d47bbebf7048b8e62",
+    "short_commit": "e8bcbc081dfb",
+    "branch": "dev",
+    "date": "2019-02-22 17:21:47 +0000"
+  }
+,
+  {
+    "name": "rusty-kaspa",
+    "url": "https://github.com/kaspanet/rusty-kaspa.git",
+    "subdir": "rusty-kaspa",
+    "commit": "5417ed03f4732459cdd594ee0d1bb868c3838bde",
+    "short_commit": "5417ed03f473",
+    "branch": "master",
+    "date": "2026-11-13 00:57:55 +0200"
+  }
+,
+  {
+    "name": "stellar-core",
+    "url": "https://github.com/stellar/stellar-core.git",
+    "subdir": "stellar-core",
+    "commit": "f2b91947fb20fc8174cca38bf320eda7baa3edbb",
+    "short_commit": "f2b91947fb20",
+    "branch": "master",
+    "date": "2026-11-12 19:48:59 +0000"
+  }
+
+]

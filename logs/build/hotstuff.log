@@ -1,0 +1,44 @@
+CMake Warning:
+  Ignoring extra path from command line:
+
+   ".."
+
+
+CMake Warning:
+  Ignoring extra path from command line:
+
+   ".."
+
+
+CMake Error: The source directory "/home/lucas/github/blockchain/repositories/hotstuff" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
+CMake Error: The source directory "/home/lucas/github/blockchain/repositories/hotstuff" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+[33mCMake Warning:
+  Ignoring extra path from command line:
+
+   ".."
+
+[0m
+[33mCMake Warning:
+  Ignoring extra path from command line:
+
+   ".."
+
+[0m
+[0mCMake Error: The source directory "/home/lucas/github/blockchain/repositories/hotstuff" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0mCMake Error: The source directory "/home/lucas/github/blockchain/repositories/hotstuff" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.[0m
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/hotstuff/build'
+
+make[1]: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/hotstuff/build'
+
+make[1]: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/hotstuff/build'
+
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/hotstuff/build'
+

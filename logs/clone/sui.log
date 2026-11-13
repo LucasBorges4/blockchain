@@ -1,0 +1,25 @@
+Clonando em '/home/lucas/github/blockchain/repositories/sui'...
+Atualizando arquivos:  99% (19672/19816)Atualizando arquivos: 100% (19816/19816)Atualizando arquivos: 100% (19816/19816), concluído.
+De https://github.com/MystenLabs/sui
+   07f2d0d205..5d09c63857  dario/gas-publish-charge  -> origin/dario/gas-publish-charge
+ + b244c7313a...cfa86ca28b nickv/epoch-fields        -> origin/nickv/epoch-fields  (atualização forçada)
+ + e6e6742f5c...aca35329e7 nickv/epoch-not-found     -> origin/nickv/epoch-not-found  (atualização forçada)
+ + 3da9767826...f064ee10ed nickv/epoch-system-state  -> origin/nickv/epoch-system-state  (atualização forçada)
+ + d86a841fc1...653bb21d00 nickv/fullnode-packages-by-checkpoint -> origin/nickv/fullnode-packages-by-checkpoint  (atualização forçada)
+ + 757f6057b3...2c4b5cf027 nickv/getpackage-bound-checks -> origin/nickv/getpackage-bound-checks  (atualização forçada)
+ + ad37bce0b5...ad232c4573 nickv/getpackage-system-versions -> origin/nickv/getpackage-system-versions  (atualização forçada)
+ + 00590045f6...db23ff7027 nickv/kvstore-tasked-run  -> origin/nickv/kvstore-tasked-run  (atualização forçada)
+ + 6dc4790a03...9a6e75f292 nickv/list-object-versions -> origin/nickv/list-object-versions  (atualização forçada)
+ + b69b163f70...44cdb68b90 nickv/list-object-versions-fullnode -> origin/nickv/list-object-versions-fullnode  (atualização forçada)
+ + 2453625d69...2ae954e9b9 nickv/list-system-packages -> origin/nickv/list-system-packages  (atualização forçada)
+ + 3cb150a0dd...6e7de46767 nickv/list-system-packages-graphql -> origin/nickv/list-system-packages-graphql  (atualização forçada)
+ + ca6de3b982...a8c49c2400 nickv/object-max-version  -> origin/nickv/object-max-version  (atualização forçada)
+ + 0f9732605c...a00d058334 nickv/object-removed-error -> origin/nickv/object-removed-error  (atualização forçada)
+ + 2eae9929a5...f8a29aa202 nickv/object-versions-rpc -> origin/nickv/object-versions-rpc  (atualização forçada)
+ + 1a1f187be8...9ac52b1f3e nickv/package-member-not-found -> origin/nickv/package-member-not-found  (atualização forçada)
+ + 24913597c3...e891968699 nickv/package-versions-checkpoint -> origin/nickv/package-versions-checkpoint  (atualização forçada)
+ + a2495f01c1...20c1a9615c nickv/package-versions-cursors -> origin/nickv/package-versions-cursors  (atualização forçada)
+ + 5bf1de44be...476978fb4b nickv/pinned-read-bounds  -> origin/nickv/pinned-read-bounds  (atualização forçada)
+ + 813145d196...21f2144eb5 nickv/postgres-migration-integration -> origin/nickv/postgres-migration-integration  (atualização forçada)
+ * [nova tag]              sui_v1.85.0_1794541756_ci -> sui_v1.85.0_1794541756_ci
+Já está atualizado.

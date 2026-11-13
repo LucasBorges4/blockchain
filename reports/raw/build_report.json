@@ -1,0 +1,79 @@
+{
+  "generated": "2026-11-13T03:02:22-03:00",
+  "build_type": "Release",
+  "jobs": 12,
+  "results": [
+    {
+      "repository": "bitcoin",
+      "status": "FAILED",
+      "notes": "CMake configuration failed (missing Boost?)"
+    }
+,
+    {
+      "repository": "ethereum-consensus-specs",
+      "status": "SUCCESS",
+      "notes": "Specification repo - no binary build, Python tests available"
+    }
+,
+    {
+      "repository": "hotstuff",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/hotstuff.log"
+    }
+,
+    {
+      "repository": "sui",
+      "status": "PARTIAL",
+      "notes": "Workspace built, check target/release for binaries"
+    }
+,
+    {
+      "repository": "avalanchego",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/avalanchego.log"
+    }
+,
+    {
+      "repository": "go-algorand",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/go-algorand.log"
+    }
+,
+    {
+      "repository": "cometbft",
+      "status": "SUCCESS",
+      "notes": "cometbft binary built"
+    }
+,
+    {
+      "repository": "agave",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/agave.log"
+    }
+,
+    {
+      "repository": "ouroboros-consensus",
+      "status": "SUCCESS",
+      "notes": "Haskell library built (no standalone binary)"
+    }
+,
+    {
+      "repository": "honeybadger",
+      "status": "SUCCESS",
+      "notes": "Python package installed (no compilation needed)"
+    }
+,
+    {
+      "repository": "rusty-kaspa",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/rusty-kaspa.log"
+    }
+,
+    {
+      "repository": "stellar-core",
+      "status": "FAILED",
+      "notes": "Check /home/lucas/github/blockchain/logs/build/stellar-core.log"
+    }
+
+  ]
+}

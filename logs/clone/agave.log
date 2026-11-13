@@ -1,0 +1,20 @@
+Clonando em '/home/lucas/github/blockchain/repositories/agave'...
+De https://github.com/anza-xyz/agave
+ - [excluído]              (nenhum)   -> origin/dependabot/cargo/dev-bins/tonic-prost-build-0.14.9
+ - [excluído]              (nenhum)   -> origin/dependabot/cargo/programs/sbf/solana-seed-derivable-3.0.1
+ - [excluído]              (nenhum)   -> origin/dependabot/cargo/solana-keypair-4.0.1
+   91aa53d267..e81030ea56  master     -> origin/master
+Atualizando 91aa53d267..e81030ea56
+Fast-forward
+ .github/workflows/conformance-dispatch.yml | 15 ++++++++++++---
+ Cargo.lock                                 |  6 ++----
+ Cargo.toml                                 |  4 +---
+ ci/xtask/src/commands/conformance_table.rs | 12 ++++++++++--
+ dev-bins/Cargo.lock                        |  6 ++----
+ dev-bins/Cargo.toml                        |  3 +--
+ keygen/Cargo.toml                          |  2 +-
+ ledger/Cargo.toml                          |  1 -
+ programs/sbf/Cargo.lock                    |  6 ++----
+ programs/sbf/Cargo.toml                    |  2 +-
+ scheduling-utils/Cargo.toml                |  1 -
+ 11 files changed, 32 insertions(+), 26 deletions(-)

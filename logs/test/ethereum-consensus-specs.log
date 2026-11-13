@@ -1,0 +1,536 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/lucas/github/blockchain/repositories/ethereum-consensus-specs
+configfile: pyproject.toml
+testpaths: tests
+plugins: platformdirs-4.12.3
+collected 48 items / 2 errors
+
+<Dir ethereum-consensus-specs>
+  <Dir tests>
+    <Dir core>
+      <Dir pyspec>
+        <Package eth_consensus_specs>
+          <Package utils>
+            <Module test_merkle_minimal.py>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-0-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-1-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_0]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-1-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_1]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-2-\xf5\xa5\xfdB\xd1j 0'\x98\xefn\xd3\t\x97\x9bC\x00=# \xd9\xf0\xe8\xea\x981\xa9'Y\xfbK]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-2-\x88\xb3\xcf\x98\x9f6\xbb\xea\x86\xf0\xb7\x90\xf5\xd8H\x9a\x99a\xcbXX\x0f\x95\xc4\xa3\x80\xe5o\x9cf{R]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-2-\xac*\xa1x\xaa\xafzQ\x16"\xccc\x1c\xab!\xe74\x87\xafi\x04\x97\xb8\x0f\xbd\xf8\xce\xbc\x98\xb8\xe1H]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[16-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-4-\xdbV\x11N\x00\xfd\xd4\xc1\xf8\\x89+\xf3Z\xc9\xa8\x92\x89\xaa\xec\xb1\xeb\xd0\xa9l\xde`jt\x8b]q]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-4-\x89\x9a@\xe73pQ\xee\xc7\x9d\xae\xcc\xf2\x7f\x87\x1c\\xccX\xa0\x8eP\xceL\xdc\x9e\xb2\x0e5a\x9a\x85]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-4-\xde[wy\xba\xe3z\xdd\xcf\x99\xc5\xc3*|5Tg\xe6L*\xe4\xe4\xb8Y\x9f/\xc8\x01\xd6\q\x1e]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-4-\x12\xbc\xcc>y\xc8\x0e>O[wU8\xec\xc3\x1d\x99HX?\xaf\\x12\x1d\xba\x05F\x97\xac\x8d\x8a\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-4-\xb4\t\xf2\x1c\x99,\xfa?M\xd5MM\t$>\xe0F'V\xcd\x12\xc2\xc2\x809\x05\x8eb#8\xd3\x0f]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-4-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-8-\xc7\x80\t\xfd\xf0\x7f\xc5j\x11\xf1"7\x06X\xa3S\xaa\xa5B\xedc\xe4LK\xc1_\xf4\xcd\x10Z\xb3<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-8--\xcc\xe48\xb0\x9f\xb7H\xcd\xe7\x1f\xb7-\xb6\xf6+\x14\y\xfc\x98\x00\x16\xf7_\xf7\xac\xcc\xd9\x98L\xe4]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-8-;t\x00\x1e\xcb\xe6\xc7\xf3\xad\x8d1bp'[M\xa5\x88N\xc3D\xb1\xd5\xd1$\xb8\xaf\xf2`\x89\xb3&]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-8-Y#T\xc8\x08\xc4Y\xdfZ\x05\xbby>\xc1t7\x1fv+v\xe0g\x9e\x83I\x8b\xfb(\xa6\xd8\x85k]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-8-\x97SO\xc8\x00\xab\x00\xe4l\xe9\x9b\x8a)\x13t\x9dP\x80E\x95w0\x83\xb7b\xadgA\x90>\x15A]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-8-\xf9\xb6\xba\xbe,\x08P\x86\xa4\xa7is\x8e\x035=\x98\x84\x96{\xcf\x1e\xe2c[\x05x\xa3\x16/\x83\xf8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-8-\xee\x98\xd0\xb9\xe5\x94W\xf8\xb0ZL\xf9MM\xe6\xbf\xe1\xd1\xaa\xb3\x91\x18\xb1\x86%\xfcx%\x07M\xe2\x94]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-8-\xbdH`\xe3\x08\x8a\x0fR\x80B$\x90ko\xa7\xdaoC\xdaJ\\xe2v\x9a\xa9\xf4/\x84s-\x83\x08]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-8-_h\x92\xbd\xc3Pm\xe6Fz\x03C"\x0e$2@\xbd\x19\xa7\xc9<|\xc0$\xb20f\xd7;\xa04]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-8-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-16-Sm\x98\x83\x7f-\xd1e\xa5]^\xea\xe9\x14\x85\x95Dr\xd5o$m\xf2V\xbf<\xae\x195*\x12<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-16-x\xa5\xbc3K\x97:X\xb4\x96\x05\n\xd4@\xa7I&\x8f\xa9bd@\x96\xa1\x17\x03y\xa0\x06{\xb4\xbb]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-16-\x86q\xbfV\x94\x8e\x97\x1b*\xa8]3i\x15\x9c\xd8\xd2\xa3\xd1\xce\x10\xd0\x16\xc9\x12\x97\x82\xce-\xe8\x99\x0c]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-16-\xfa\xd9\xff7@\x88/X\xd7O\xe0=\x04\xb4\xfe\t\xc2\xcb\x00n\xcf\x12c\xae$\xc5f78?\xb5\x92]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-16-f\xd7\xcd\xf7|/\xf4"\xe0\rJR\xd3\x02\x87\xef\x97D\xbf\x82\xebZ\xb9p\x1a\n.'\x88\x95\xa5D]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-16-N\xc0\xd4\x9fb\x8ev\xe4\xde\x1f\xea\xfaPm\x03U\xd1\x15\x8dT~A\xf0y\xa3\xf3\xfd\xd9\x1bh\xf9T]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-16-\xe1\xdd\xae\xb42qUPD\xab\xe7\xd0\xe7\xec8z\x9fb\xb0j\xbf"0\xeb\xe4\x07\xed~\xe0\x16?g]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-16-^\xb9\xd6\xe26\x13c\xb8\xc4G\xc4\xcf~pRc9\xdf\x97\x86\xa2d\x9a\xd3\xb8\x8e\x1f\xdd\xae%\xc2\xe8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-16-}z\xe1\xa7}\x0b\x17\xd2\xa6\x9d0\xb0p69\xac\x86\xa75\xec%\x14\xd9\xaf\x11\xe16\xe7#\xae\xa8)]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-16-\xf4=\xa4?rcd6\xf6\x8a\xaeZCB\xa4\x88\x13_!\xba\xb8\xb1\x9cK\xe8~\x01\x11\x18"*\x86]>
+            <Module test_merkle_proof_util.py>
+              <Function test_get_power_of_two_ceil[0-1]>
+              <Function test_get_power_of_two_ceil[1-1]>
+              <Function test_get_power_of_two_ceil[2-2]>
+              <Function test_get_power_of_two_ceil[3-4]>
+              <Function test_get_power_of_two_ceil[4-4]>
+              <Function test_get_power_of_two_ceil[5-8]>
+              <Function test_get_power_of_two_ceil[6-8]>
+              <Function test_get_power_of_two_ceil[7-8]>
+              <Function test_get_power_of_two_ceil[8-8]>
+              <Function test_get_power_of_two_ceil[9-16]>
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+_______ ERROR collecting tests/generators/compliance_runners/fork_choice _______
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/lucas/github/blockchain/repositories/ethereum-consensus-specs
+configfile: pyproject.toml
+testpaths: tests
+plugins: platformdirs-4.12.3
+collected 48 items / 2 errors
+
+<Dir ethereum-consensus-specs>
+  <Dir tests>
+    <Dir core>
+      <Dir pyspec>
+        <Package eth_consensus_specs>
+          <Package utils>
+            <Module test_merkle_minimal.py>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-0-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-1-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_0]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-1-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_1]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-2-\xf5\xa5\xfdB\xd1j 0'\x98\xefn\xd3\t\x97\x9bC\x00=# \xd9\xf0\xe8\xea\x981\xa9'Y\xfbK]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-2-\x88\xb3\xcf\x98\x9f6\xbb\xea\x86\xf0\xb7\x90\xf5\xd8H\x9a\x99a\xcbXX\x0f\x95\xc4\xa3\x80\xe5o\x9cf{R]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-2-\xac*\xa1x\xaa\xafzQ\x16"\xccc\x1c\xab!\xe74\x87\xafi\x04\x97\xb8\x0f\xbd\xf8\xce\xbc\x98\xb8\xe1H]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[16-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-4-\xdbV\x11N\x00\xfd\xd4\xc1\xf8\\x89+\xf3Z\xc9\xa8\x92\x89\xaa\xec\xb1\xeb\xd0\xa9l\xde`jt\x8b]q]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-4-\x89\x9a@\xe73pQ\xee\xc7\x9d\xae\xcc\xf2\x7f\x87\x1c\\xccX\xa0\x8eP\xceL\xdc\x9e\xb2\x0e5a\x9a\x85]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-4-\xde[wy\xba\xe3z\xdd\xcf\x99\xc5\xc3*|5Tg\xe6L*\xe4\xe4\xb8Y\x9f/\xc8\x01\xd6\q\x1e]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-4-\x12\xbc\xcc>y\xc8\x0e>O[wU8\xec\xc3\x1d\x99HX?\xaf\\x12\x1d\xba\x05F\x97\xac\x8d\x8a\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-4-\xb4\t\xf2\x1c\x99,\xfa?M\xd5MM\t$>\xe0F'V\xcd\x12\xc2\xc2\x809\x05\x8eb#8\xd3\x0f]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-4-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-8-\xc7\x80\t\xfd\xf0\x7f\xc5j\x11\xf1"7\x06X\xa3S\xaa\xa5B\xedc\xe4LK\xc1_\xf4\xcd\x10Z\xb3<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-8--\xcc\xe48\xb0\x9f\xb7H\xcd\xe7\x1f\xb7-\xb6\xf6+\x14\y\xfc\x98\x00\x16\xf7_\xf7\xac\xcc\xd9\x98L\xe4]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-8-;t\x00\x1e\xcb\xe6\xc7\xf3\xad\x8d1bp'[M\xa5\x88N\xc3D\xb1\xd5\xd1$\xb8\xaf\xf2`\x89\xb3&]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-8-Y#T\xc8\x08\xc4Y\xdfZ\x05\xbby>\xc1t7\x1fv+v\xe0g\x9e\x83I\x8b\xfb(\xa6\xd8\x85k]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-8-\x97SO\xc8\x00\xab\x00\xe4l\xe9\x9b\x8a)\x13t\x9dP\x80E\x95w0\x83\xb7b\xadgA\x90>\x15A]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-8-\xf9\xb6\xba\xbe,\x08P\x86\xa4\xa7is\x8e\x035=\x98\x84\x96{\xcf\x1e\xe2c[\x05x\xa3\x16/\x83\xf8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-8-\xee\x98\xd0\xb9\xe5\x94W\xf8\xb0ZL\xf9MM\xe6\xbf\xe1\xd1\xaa\xb3\x91\x18\xb1\x86%\xfcx%\x07M\xe2\x94]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-8-\xbdH`\xe3\x08\x8a\x0fR\x80B$\x90ko\xa7\xdaoC\xdaJ\\xe2v\x9a\xa9\xf4/\x84s-\x83\x08]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-8-_h\x92\xbd\xc3Pm\xe6Fz\x03C"\x0e$2@\xbd\x19\xa7\xc9<|\xc0$\xb20f\xd7;\xa04]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-8-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-16-Sm\x98\x83\x7f-\xd1e\xa5]^\xea\xe9\x14\x85\x95Dr\xd5o$m\xf2V\xbf<\xae\x195*\x12<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-16-x\xa5\xbc3K\x97:X\xb4\x96\x05\n\xd4@\xa7I&\x8f\xa9bd@\x96\xa1\x17\x03y\xa0\x06{\xb4\xbb]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-16-\x86q\xbfV\x94\x8e\x97\x1b*\xa8]3i\x15\x9c\xd8\xd2\xa3\xd1\xce\x10\xd0\x16\xc9\x12\x97\x82\xce-\xe8\x99\x0c]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-16-\xfa\xd9\xff7@\x88/X\xd7O\xe0=\x04\xb4\xfe\t\xc2\xcb\x00n\xcf\x12c\xae$\xc5f78?\xb5\x92]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-16-f\xd7\xcd\xf7|/\xf4"\xe0\rJR\xd3\x02\x87\xef\x97D\xbf\x82\xebZ\xb9p\x1a\n.'\x88\x95\xa5D]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-16-N\xc0\xd4\x9fb\x8ev\xe4\xde\x1f\xea\xfaPm\x03U\xd1\x15\x8dT~A\xf0y\xa3\xf3\xfd\xd9\x1bh\xf9T]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-16-\xe1\xdd\xae\xb42qUPD\xab\xe7\xd0\xe7\xec8z\x9fb\xb0j\xbf"0\xeb\xe4\x07\xed~\xe0\x16?g]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-16-^\xb9\xd6\xe26\x13c\xb8\xc4G\xc4\xcf~pRc9\xdf\x97\x86\xa2d\x9a\xd3\xb8\x8e\x1f\xdd\xae%\xc2\xe8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-16-}z\xe1\xa7}\x0b\x17\xd2\xa6\x9d0\xb0p69\xac\x86\xa75\xec%\x14\xd9\xaf\x11\xe16\xe7#\xae\xa8)]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-16-\xf4=\xa4?rcd6\xf6\x8a\xaeZCB\xa4\x88\x13_!\xba\xb8\xb1\x9cK\xe8~\x01\x11\x18"*\x86]>
+            <Module test_merkle_proof_util.py>
+              <Function test_get_power_of_two_ceil[0-1]>
+              <Function test_get_power_of_two_ceil[1-1]>
+              <Function test_get_power_of_two_ceil[2-2]>
+              <Function test_get_power_of_two_ceil[3-4]>
+              <Function test_get_power_of_two_ceil[4-4]>
+              <Function test_get_power_of_two_ceil[5-8]>
+              <Function test_get_power_of_two_ceil[6-8]>
+              <Function test_get_power_of_two_ceil[7-8]>
+              <Function test_get_power_of_two_ceil[8-8]>
+              <Function test_get_power_of_two_ceil[9-16]>
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+_______ ERROR collecting tests/generators/compliance_runners/fork_choice _______
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/generators/compliance_runners/fork_choice/conftest.py:8: in <module>
+    from eth_consensus_specs.utils.kzg import load_trusted_setup
+tests/core/pyspec/eth_consensus_specs/utils/kzg.py:9: in <module>
+    import ckzg
+E   ModuleNotFoundError: No module named 'ckzg'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+ERROR tests/generators/compliance_runners/fork_choice - ModuleNotFoundError: ...
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!!
+==================== 48 tests collected, 2 errors in 0.16s =====================
+ _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/generators/compliance_runners/fork_choice/conftest.py:8: in <module>
+    from eth_consensus_specs.utils.kzg import load_trusted_setup
+tests/core/pyspec/eth_consensus_specs/utils/kzg.py:9: in <module>
+    import ckzg
+E   ModuleNotFoundError: No module named 'ckzg'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+ERROR tests/generators/compliance_runners/fork_choice - ModuleNotFoundError: ...
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!!
+==================== 48 tests collected, 2 errors in 0.16s =====================
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+!!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1 error in 0.05s
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+!!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1 error in 0.05s
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/lucas/github/blockchain/repositories/ethereum-consensus-specs
+configfile: pyproject.toml
+testpaths: tests
+plugins: platformdirs-4.12.3
+collected 48 items / 2 errors
+
+<Dir ethereum-consensus-specs>
+  <Dir tests>
+    <Dir core>
+      <Dir pyspec>
+        <Package eth_consensus_specs>
+          <Package utils>
+            <Module test_merkle_minimal.py>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-0-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-1-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_0]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-1-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_1]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-2-\xf5\xa5\xfdB\xd1j 0'\x98\xefn\xd3\t\x97\x9bC\x00=# \xd9\xf0\xe8\xea\x981\xa9'Y\xfbK]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-2-\x88\xb3\xcf\x98\x9f6\xbb\xea\x86\xf0\xb7\x90\xf5\xd8H\x9a\x99a\xcbXX\x0f\x95\xc4\xa3\x80\xe5o\x9cf{R]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-2-\xac*\xa1x\xaa\xafzQ\x16"\xccc\x1c\xab!\xe74\x87\xafi\x04\x97\xb8\x0f\xbd\xf8\xce\xbc\x98\xb8\xe1H]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[16-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-4-\xdbV\x11N\x00\xfd\xd4\xc1\xf8\\x89+\xf3Z\xc9\xa8\x92\x89\xaa\xec\xb1\xeb\xd0\xa9l\xde`jt\x8b]q]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-4-\x89\x9a@\xe73pQ\xee\xc7\x9d\xae\xcc\xf2\x7f\x87\x1c\\xccX\xa0\x8eP\xceL\xdc\x9e\xb2\x0e5a\x9a\x85]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-4-\xde[wy\xba\xe3z\xdd\xcf\x99\xc5\xc3*|5Tg\xe6L*\xe4\xe4\xb8Y\x9f/\xc8\x01\xd6\q\x1e]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-4-\x12\xbc\xcc>y\xc8\x0e>O[wU8\xec\xc3\x1d\x99HX?\xaf\\x12\x1d\xba\x05F\x97\xac\x8d\x8a\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-4-\xb4\t\xf2\x1c\x99,\xfa?M\xd5MM\t$>\xe0F'V\xcd\x12\xc2\xc2\x809\x05\x8eb#8\xd3\x0f]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-4-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-8-\xc7\x80\t\xfd\xf0\x7f\xc5j\x11\xf1"7\x06X\xa3S\xaa\xa5B\xedc\xe4LK\xc1_\xf4\xcd\x10Z\xb3<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-8--\xcc\xe48\xb0\x9f\xb7H\xcd\xe7\x1f\xb7-\xb6\xf6+\x14\y\xfc\x98\x00\x16\xf7_\xf7\xac\xcc\xd9\x98L\xe4]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-8-;t\x00\x1e\xcb\xe6\xc7\xf3\xad\x8d1bp'[M\xa5\x88N\xc3D\xb1\xd5\xd1$\xb8\xaf\xf2`\x89\xb3&]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-8-Y#T\xc8\x08\xc4Y\xdfZ\x05\xbby>\xc1t7\x1fv+v\xe0g\x9e\x83I\x8b\xfb(\xa6\xd8\x85k]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-8-\x97SO\xc8\x00\xab\x00\xe4l\xe9\x9b\x8a)\x13t\x9dP\x80E\x95w0\x83\xb7b\xadgA\x90>\x15A]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-8-\xf9\xb6\xba\xbe,\x08P\x86\xa4\xa7is\x8e\x035=\x98\x84\x96{\xcf\x1e\xe2c[\x05x\xa3\x16/\x83\xf8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-8-\xee\x98\xd0\xb9\xe5\x94W\xf8\xb0ZL\xf9MM\xe6\xbf\xe1\xd1\xaa\xb3\x91\x18\xb1\x86%\xfcx%\x07M\xe2\x94]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-8-\xbdH`\xe3\x08\x8a\x0fR\x80B$\x90ko\xa7\xdaoC\xdaJ\\xe2v\x9a\xa9\xf4/\x84s-\x83\x08]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-8-_h\x92\xbd\xc3Pm\xe6Fz\x03C"\x0e$2@\xbd\x19\xa7\xc9<|\xc0$\xb20f\xd7;\xa04]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-8-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-16-Sm\x98\x83\x7f-\xd1e\xa5]^\xea\xe9\x14\x85\x95Dr\xd5o$m\xf2V\xbf<\xae\x195*\x12<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-16-x\xa5\xbc3K\x97:X\xb4\x96\x05\n\xd4@\xa7I&\x8f\xa9bd@\x96\xa1\x17\x03y\xa0\x06{\xb4\xbb]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-16-\x86q\xbfV\x94\x8e\x97\x1b*\xa8]3i\x15\x9c\xd8\xd2\xa3\xd1\xce\x10\xd0\x16\xc9\x12\x97\x82\xce-\xe8\x99\x0c]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-16-\xfa\xd9\xff7@\x88/X\xd7O\xe0=\x04\xb4\xfe\t\xc2\xcb\x00n\xcf\x12c\xae$\xc5f78?\xb5\x92]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-16-f\xd7\xcd\xf7|/\xf4"\xe0\rJR\xd3\x02\x87\xef\x97D\xbf\x82\xebZ\xb9p\x1a\n.'\x88\x95\xa5D]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-16-N\xc0\xd4\x9fb\x8ev\xe4\xde\x1f\xea\xfaPm\x03U\xd1\x15\x8dT~A\xf0y\xa3\xf3\xfd\xd9\x1bh\xf9T]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-16-\xe1\xdd\xae\xb42qUPD\xab\xe7\xd0\xe7\xec8z\x9fb\xb0j\xbf"0\xeb\xe4\x07\xed~\xe0\x16?g]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-16-^\xb9\xd6\xe26\x13c\xb8\xc4G\xc4\xcf~pRc9\xdf\x97\x86\xa2d\x9a\xd3\xb8\x8e\x1f\xdd\xae%\xc2\xe8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-16-}z\xe1\xa7}\x0b\x17\xd2\xa6\x9d0\xb0p69\xac\x86\xa75\xec%\x14\xd9\xaf\x11\xe16\xe7#\xae\xa8)]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-16-\xf4=\xa4?rcd6\xf6\x8a\xaeZCB\xa4\x88\x13_!\xba\xb8\xb1\x9cK\xe8~\x01\x11\x18"*\x86]>
+            <Module test_merkle_proof_util.py>
+              <Function test_get_power_of_two_ceil[0-1]>
+              <Function test_get_power_of_two_ceil[1-1]>
+              <Function test_get_power_of_two_ceil[2-2]>
+              <Function test_get_power_of_two_ceil[3-4]>
+              <Function test_get_power_of_two_ceil[4-4]>
+              <Function test_get_power_of_two_ceil[5-8]>
+              <Function test_get_power_of_two_ceil[6-8]>
+              <Function test_get_power_of_two_ceil[7-8]>
+              <Function test_get_power_of_two_ceil[8-8]>
+              <Function test_get_power_of_two_ceil[9-16]>
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+_______ ERROR collecting tests/generators/compliance_runners/fork_choice _______
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/lucas/github/blockchain/repositories/ethereum-consensus-specs
+configfile: pyproject.toml
+testpaths: tests
+plugins: platformdirs-4.12.3
+collected 48 items / 2 errors
+
+<Dir ethereum-consensus-specs>
+  <Dir tests>
+    <Dir core>
+      <Dir pyspec>
+        <Package eth_consensus_specs>
+          <Package utils>
+            <Module test_merkle_minimal.py>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-0-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-0-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-1-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_0]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-1-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-1-\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00_1]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-2-\xf5\xa5\xfdB\xd1j 0'\x98\xefn\xd3\t\x97\x9bC\x00=# \xd9\xf0\xe8\xea\x981\xa9'Y\xfbK]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-2-\x88\xb3\xcf\x98\x9f6\xbb\xea\x86\xf0\xb7\x90\xf5\xd8H\x9a\x99a\xcbXX\x0f\x95\xc4\xa3\x80\xe5o\x9cf{R]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-2-\xac*\xa1x\xaa\xafzQ\x16"\xccc\x1c\xab!\xe74\x87\xafi\x04\x97\xb8\x0f\xbd\xf8\xce\xbc\x98\xb8\xe1H]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[16-2-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-4-\xdbV\x11N\x00\xfd\xd4\xc1\xf8\\x89+\xf3Z\xc9\xa8\x92\x89\xaa\xec\xb1\xeb\xd0\xa9l\xde`jt\x8b]q]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-4-\x89\x9a@\xe73pQ\xee\xc7\x9d\xae\xcc\xf2\x7f\x87\x1c\\xccX\xa0\x8eP\xceL\xdc\x9e\xb2\x0e5a\x9a\x85]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-4-\xde[wy\xba\xe3z\xdd\xcf\x99\xc5\xc3*|5Tg\xe6L*\xe4\xe4\xb8Y\x9f/\xc8\x01\xd6\q\x1e]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-4-\x12\xbc\xcc>y\xc8\x0e>O[wU8\xec\xc3\x1d\x99HX?\xaf\\x12\x1d\xba\x05F\x97\xac\x8d\x8a\x00]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-4-\xb4\t\xf2\x1c\x99,\xfa?M\xd5MM\t$>\xe0F'V\xcd\x12\xc2\xc2\x809\x05\x8eb#8\xd3\x0f]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-4-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-8-\xc7\x80\t\xfd\xf0\x7f\xc5j\x11\xf1"7\x06X\xa3S\xaa\xa5B\xedc\xe4LK\xc1_\xf4\xcd\x10Z\xb3<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-8--\xcc\xe48\xb0\x9f\xb7H\xcd\xe7\x1f\xb7-\xb6\xf6+\x14\y\xfc\x98\x00\x16\xf7_\xf7\xac\xcc\xd9\x98L\xe4]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-8-;t\x00\x1e\xcb\xe6\xc7\xf3\xad\x8d1bp'[M\xa5\x88N\xc3D\xb1\xd5\xd1$\xb8\xaf\xf2`\x89\xb3&]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-8-Y#T\xc8\x08\xc4Y\xdfZ\x05\xbby>\xc1t7\x1fv+v\xe0g\x9e\x83I\x8b\xfb(\xa6\xd8\x85k]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-8-\x97SO\xc8\x00\xab\x00\xe4l\xe9\x9b\x8a)\x13t\x9dP\x80E\x95w0\x83\xb7b\xadgA\x90>\x15A]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-8-\xf9\xb6\xba\xbe,\x08P\x86\xa4\xa7is\x8e\x035=\x98\x84\x96{\xcf\x1e\xe2c[\x05x\xa3\x16/\x83\xf8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-8-\xee\x98\xd0\xb9\xe5\x94W\xf8\xb0ZL\xf9MM\xe6\xbf\xe1\xd1\xaa\xb3\x91\x18\xb1\x86%\xfcx%\x07M\xe2\x94]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-8-\xbdH`\xe3\x08\x8a\x0fR\x80B$\x90ko\xa7\xdaoC\xdaJ\\xe2v\x9a\xa9\xf4/\x84s-\x83\x08]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-8-_h\x92\xbd\xc3Pm\xe6Fz\x03C"\x0e$2@\xbd\x19\xa7\xc9<|\xc0$\xb20f\xd7;\xa04]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-8-None]>
+              <Function test_merkleize_chunks_and_get_merkle_root[0-16-Sm\x98\x83\x7f-\xd1e\xa5]^\xea\xe9\x14\x85\x95Dr\xd5o$m\xf2V\xbf<\xae\x195*\x12<]>
+              <Function test_merkleize_chunks_and_get_merkle_root[1-16-x\xa5\xbc3K\x97:X\xb4\x96\x05\n\xd4@\xa7I&\x8f\xa9bd@\x96\xa1\x17\x03y\xa0\x06{\xb4\xbb]>
+              <Function test_merkleize_chunks_and_get_merkle_root[2-16-\x86q\xbfV\x94\x8e\x97\x1b*\xa8]3i\x15\x9c\xd8\xd2\xa3\xd1\xce\x10\xd0\x16\xc9\x12\x97\x82\xce-\xe8\x99\x0c]>
+              <Function test_merkleize_chunks_and_get_merkle_root[3-16-\xfa\xd9\xff7@\x88/X\xd7O\xe0=\x04\xb4\xfe\t\xc2\xcb\x00n\xcf\x12c\xae$\xc5f78?\xb5\x92]>
+              <Function test_merkleize_chunks_and_get_merkle_root[4-16-f\xd7\xcd\xf7|/\xf4"\xe0\rJR\xd3\x02\x87\xef\x97D\xbf\x82\xebZ\xb9p\x1a\n.'\x88\x95\xa5D]>
+              <Function test_merkleize_chunks_and_get_merkle_root[5-16-N\xc0\xd4\x9fb\x8ev\xe4\xde\x1f\xea\xfaPm\x03U\xd1\x15\x8dT~A\xf0y\xa3\xf3\xfd\xd9\x1bh\xf9T]>
+              <Function test_merkleize_chunks_and_get_merkle_root[6-16-\xe1\xdd\xae\xb42qUPD\xab\xe7\xd0\xe7\xec8z\x9fb\xb0j\xbf"0\xeb\xe4\x07\xed~\xe0\x16?g]>
+              <Function test_merkleize_chunks_and_get_merkle_root[7-16-^\xb9\xd6\xe26\x13c\xb8\xc4G\xc4\xcf~pRc9\xdf\x97\x86\xa2d\x9a\xd3\xb8\x8e\x1f\xdd\xae%\xc2\xe8]>
+              <Function test_merkleize_chunks_and_get_merkle_root[8-16-}z\xe1\xa7}\x0b\x17\xd2\xa6\x9d0\xb0p69\xac\x86\xa75\xec%\x14\xd9\xaf\x11\xe16\xe7#\xae\xa8)]>
+              <Function test_merkleize_chunks_and_get_merkle_root[9-16-\xf4=\xa4?rcd6\xf6\x8a\xaeZCB\xa4\x88\x13_!\xba\xb8\xb1\x9cK\xe8~\x01\x11\x18"*\x86]>
+            <Module test_merkle_proof_util.py>
+              <Function test_get_power_of_two_ceil[0-1]>
+              <Function test_get_power_of_two_ceil[1-1]>
+              <Function test_get_power_of_two_ceil[2-2]>
+              <Function test_get_power_of_two_ceil[3-4]>
+              <Function test_get_power_of_two_ceil[4-4]>
+              <Function test_get_power_of_two_ceil[5-8]>
+              <Function test_get_power_of_two_ceil[6-8]>
+              <Function test_get_power_of_two_ceil[7-8]>
+              <Function test_get_power_of_two_ceil[8-8]>
+              <Function test_get_power_of_two_ceil[9-16]>
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+_______ ERROR collecting tests/generators/compliance_runners/fork_choice _______
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/generators/compliance_runners/fork_choice/conftest.py:8: in <module>
+    from eth_consensus_specs.utils.kzg import load_trusted_setup
+tests/core/pyspec/eth_consensus_specs/utils/kzg.py:9: in <module>
+    import ckzg
+E   ModuleNotFoundError: No module named 'ckzg'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+ERROR tests/generators/compliance_runners/fork_choice - ModuleNotFoundError: ...
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!!
+==================== 48 tests collected, 2 errors in 0.16s =====================
+ _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/generators/compliance_runners/fork_choice/conftest.py:8: in <module>
+    from eth_consensus_specs.utils.kzg import load_trusted_setup
+tests/core/pyspec/eth_consensus_specs/utils/kzg.py:9: in <module>
+    import ckzg
+E   ModuleNotFoundError: No module named 'ckzg'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+ERROR tests/generators/compliance_runners/fork_choice - ModuleNotFoundError: ...
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!!
+==================== 48 tests collected, 2 errors in 0.16s =====================
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+!!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1 error in 0.04s
+
+==================================== ERRORS ====================================
+_________ ERROR collecting tests/core/pyspec/eth_consensus_specs/test __________
+/usr/lib/python3.14/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<frozen importlib._bootstrap>:1406: in _gcd_import
+    ???
+<frozen importlib._bootstrap>:1371: in _find_and_load
+    ???
+<frozen importlib._bootstrap>:1342: in _find_and_load_unlocked
+    ???
+<frozen importlib._bootstrap>:938: in _load_unlocked
+    ???
+/usr/lib/python3.14/site-packages/_pytest/assertion/rewrite.py:188: in exec_module
+    exec(co, module.__dict__)
+tests/core/pyspec/eth_consensus_specs/test/conftest.py:5: in <module>
+    from eth_consensus_specs.test import context
+tests/core/pyspec/eth_consensus_specs/test/context.py:9: in <module>
+    from frozendict import frozendict
+E   ModuleNotFoundError: No module named 'frozendict'
+=========================== short test summary info ============================
+ERROR tests/core/pyspec/eth_consensus_specs/test - ModuleNotFoundError: No mo...
+!!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1 error in 0.04s

@@ -1,0 +1,183 @@
+version: '3.8'
+
+# Blockchain Consensus Lab — Docker Compose
+# Provides isolated build/test environments for each protocol
+# Usage: docker-compose -f docker-compose.yml up <service>
+
+services:
+  # Base builder images for each language ecosystem
+  builder-cpp:
+    image: ubuntu:22.04
+    container_name: bcl-builder-cpp
+    volumes:
+      - ./repositories:/repositories:rw
+      - ./scripts:/scripts:ro
+      - ./logs:/logs:rw
+    working_dir: /repositories
+    command: sleep infinity
+    environment:
+      - DEBIAN_FRONTEND=noninteractive
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G
+
+  builder-go:
+    image: golang:1.22-bookworm
+    container_name: bcl-builder-go
+    volumes:
+      - ./repositories:/repositories:rw
+      - ./scripts:/scripts:ro
+      - ./logs:/logs:rw
+      - go-cache:/root/.cache/go-build
+      - go-pkg:/go/pkg
+    working_dir: /repositories
+    command: sleep infinity
+    environment:
+      - CGO_ENABLED=1
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G
+
+  builder-rust:
+    image: rust:1.78-bookworm
+    container_name: bcl-builder-rust
+    volumes:
+      - ./repositories:/repositories:rw
+      - ./scripts:/scripts:ro
+      - ./logs:/logs:rw
+      - cargo-cache:/usr/local/cargo/registry
+      - cargo-target:/repositories/*/target
+    working_dir: /repositories
+    command: sleep infinity
+    environment:
+      - CARGO_HOME=/usr/local/cargo
+      - RUSTUP_HOME=/usr/local/rustup
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G
+
+  builder-haskell:
+    image: haskell:9.8
+    container_name: bcl-builder-haskell
+    volumes:
+      - ./repositories:/repositories:rw
+      - ./scripts:/scripts:ro
+      - ./logs:/logs:rw
+      - cabal-cache:/root/.cabal
+      - ghc-cache:/root/.ghc
+    working_dir: /repositories
+    command: sleep infinity
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 8G
+
+  builder-python:
+    image: python:3.11-bookworm
+    container_name: bcl-builder-python
+    volumes:
+      - ./repositories:/repositories:rw
+      - ./scripts:/scripts:ro
+      - ./logs:/logs:rw
+      - pip-cache:/root/.cache/pip
+    working_dir: /repositories
+    command: sleep infinity
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+
+  # Experiment runner with network simulation tools
+  experiment-runner:
+    image: ubuntu:22.04
+    container_name: bcl-experiment-runner
+    volumes:
+      - ./repositories:/repositories:ro
+      - ./adapters:/adapters:rw
+      - ./experiments:/experiments:rw
+      - ./benchmarks:/benchmarks:rw
+      - ./metrics:/metrics:rw
+      - ./reports:/reports:rw
+      - ./logs:/logs:rw
+      - ./scripts:/scripts:ro
+    working_dir: /experiments
+    command: sleep infinity
+    cap_add:
+      - NET_ADMIN  # For tc (traffic control) network simulation
+    environment:
+      - PYTHONUNBUFFERED=1
+    deploy:
+      resources:
+        limits:
+          cpus: '8'
+          memory: 16G
+
+  # Metrics collector with Prometheus/Grafana stack (optional)
+  prometheus:
+    image: prom/prometheus:v2.47
+    container_name: bcl-prometheus
+    volumes:
+      - ./metrics/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    ports:
+      - "9090:9090"
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    profiles:
+      - monitoring
+
+  grafana:
+    image: grafana/grafana:10.1
+    container_name: bcl-grafana
+    volumes:
+      - ./metrics/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./metrics/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+      - grafana-data:/var/lib/grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    profiles:
+      - monitoring
+
+  # Network simulation helper
+  netem:
+    image: ubuntu:22.04
+    container_name: bcl-netem
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - ./scripts/netem:/scripts/netem:ro
+    command: sleep infinity
+    profiles:
+      - network-simulation
+
+volumes:
+  go-cache:
+  go-pkg:
+  cargo-cache:
+  cargo-target:
+  cabal-cache:
+  ghc-cache:
+  pip-cache:
+  prometheus-data:
+  grafana-data:
+
+networks:
+  default:
+    name: bcl-network
+    driver: bridge

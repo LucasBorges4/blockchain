@@ -1,0 +1,110 @@
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+CGO_ENABLED=0 go build -mod=readonly -ldflags "-X github.com/cometbft/cometbft/version.TMGitCommitHash=7993fe0c8  -s -w" -trimpath -tags 'cometbft' -o /home/lucas/github/blockchain/repositories/cometbft/build/cometbft ./cmd/cometbft/
+CGO_ENABLED=0 go build -mod=readonly -ldflags "-X github.com/cometbft/cometbft/version.TMGitCommitHash=7993fe0c8  -s -w" -trimpath -tags 'cometbft' -o /home/lucas/github/blockchain/repositories/cometbft/build/cometbft ./cmd/cometbft/
+go: downloading github.com/spf13/cobra v1.10.2
+go: downloading github.com/spf13/viper v1.21.0
+go: downloading github.com/spf13/cobra v1.10.2
+go: downloading github.com/spf13/viper v1.21.0
+go: downloading github.com/cometbft/cometbft-db v0.14.1
+go: downloading github.com/cometbft/cometbft-db v0.14.1
+go: downloading github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+go: downloading github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+go: downloading github.com/lib/pq v1.12.3
+go: downloading github.com/lib/pq v1.12.3
+go: downloading github.com/prometheus/client_golang v1.25.0
+go: downloading github.com/prometheus/client_golang v1.25.0
+go: downloading github.com/rs/cors v1.11.1
+go: downloading github.com/rs/cors v1.11.1
+go: downloading github.com/go-kit/log v0.2.1
+go: downloading github.com/go-kit/log v0.2.1
+go: downloading github.com/go-logfmt/logfmt v0.6.1
+go: downloading github.com/go-logfmt/logfmt v0.6.1
+go: downloading github.com/cosmos/gogoproto v1.7.2
+go: downloading github.com/cosmos/gogoproto v1.7.2
+go: downloading google.golang.org/grpc v1.82.1
+go: downloading google.golang.org/grpc v1.82.1
+go: downloading golang.org/x/sync v0.24.0
+go: downloading golang.org/x/sync v0.24.0
+go: downloading github.com/go-kit/kit v0.13.0
+go: downloading github.com/go-kit/kit v0.13.0
+go: downloading golang.org/x/net v0.62.0
+go: downloading golang.org/x/net v0.62.0
+go: downloading github.com/mr-tron/base58 v1.3.0
+go: downloading github.com/mr-tron/base58 v1.3.0
+go: downloading github.com/google/orderedcode v0.0.1
+go: downloading github.com/google/orderedcode v0.0.1
+go: downloading github.com/stretchr/testify v1.12.1
+go: downloading github.com/stretchr/testify v1.12.1
+go: downloading github.com/minio/highwayhash v1.0.4
+go: downloading github.com/minio/highwayhash v1.0.4
+go: downloading github.com/go-viper/mapstructure/v2 v2.5.0
+go: downloading github.com/go-viper/mapstructure/v2 v2.5.0
+go: downloading github.com/sagikazarmark/locafero v0.11.0
+go: downloading github.com/sagikazarmark/locafero v0.11.0
+go: downloading github.com/spf13/afero v1.15.0
+go: downloading github.com/spf13/afero v1.15.0
+go: downloading github.com/spf13/cast v1.10.0
+go: downloading github.com/spf13/cast v1.10.0
+go: downloading github.com/spf13/pflag v1.0.10
+go: downloading github.com/spf13/pflag v1.0.10
+go: downloading github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9
+go: downloading github.com/rcrowley/go-metrics v0.0.0-20250401214520-65e299d6c5c9
+go: downloading github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a
+go: downloading github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a
+go: downloading github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.1
+go: downloading github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.1
+go: downloading golang.org/x/crypto v0.58.0
+go: downloading golang.org/x/crypto v0.58.0
+go: downloading github.com/prometheus/client_model v0.6.3
+go: downloading github.com/prometheus/client_model v0.6.3
+go: downloading github.com/prometheus/common v0.73.1
+go: downloading github.com/prometheus/common v0.73.1
+go: downloading github.com/prometheus/procfs v0.22.0
+go: downloading github.com/prometheus/procfs v0.22.0
+go: downloading google.golang.org/protobuf v1.36.12
+go: downloading google.golang.org/protobuf v1.36.12
+go: downloading google.golang.org/genproto/googleapis/rpc v0.0.0-20260414002931-afd174a4e478
+go: downloading google.golang.org/genproto/googleapis/rpc v0.0.0-20260414002931-afd174a4e478
+go: downloading github.com/ipfs/go-cid v0.5.0
+go: downloading github.com/ipfs/go-cid v0.5.0
+go: downloading github.com/multiformats/go-multicodec v0.9.1
+go: downloading github.com/multiformats/go-multicodec v0.9.1
+go: downloading golang.org/x/sys v0.49.0
+go: downloading golang.org/x/sys v0.49.0
+go: downloading github.com/multiformats/go-varint v0.0.7
+go: downloading github.com/multiformats/go-varint v0.0.7
+go: downloading golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
+go: downloading golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
+go: downloading github.com/cloudflare/circl v1.6.5
+go: downloading github.com/cloudflare/circl v1.6.5
+go: downloading github.com/golang/snappy v0.0.4
+go: downloading github.com/golang/snappy v0.0.4
+go: downloading github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
+go: downloading github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
+go: downloading golang.org/x/text v0.43.0
+go: downloading golang.org/x/text v0.43.0
+go: downloading go.yaml.in/yaml/v3 v3.0.5
+go: downloading go.yaml.in/yaml/v3 v3.0.5
+go: downloading github.com/pandatix/go-abnf v0.5.3
+go: downloading github.com/pandatix/go-abnf v0.5.3
+go: downloading github.com/libp2p/go-flow-metrics v0.2.0
+go: downloading github.com/libp2p/go-flow-metrics v0.2.0
+go: downloading github.com/libp2p/go-netroute v0.3.0
+go: downloading github.com/libp2p/go-netroute v0.3.0
+go: downloading golang.org/x/time v0.14.0
+go: downloading golang.org/x/time v0.14.0
+go: downloading github.com/miekg/dns v1.1.66
+go: downloading github.com/miekg/dns v1.1.66
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+make[1]: Entrando no diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+which: no protoc-gen-gogofaster in (/home/lucas/.local/bin:/home/lucas/.opencode/bin:/home/lucas/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.lmstudio/bin)
+CGO_ENABLED=0 go build -mod=readonly -ldflags "-X github.com/cometbft/cometbft/version.TMGitCommitHash=7993fe0c8  -s -w" -trimpath -tags 'cometbft' -o /home/lucas/github/blockchain/repositories/cometbft/build/cometbft ./cmd/cometbft/
+CGO_ENABLED=0 go build -mod=readonly -ldflags "-X github.com/cometbft/cometbft/version.TMGitCommitHash=7993fe0c8  -s -w" -trimpath -tags 'cometbft' -o /home/lucas/github/blockchain/repositories/cometbft/build/cometbft ./cmd/cometbft/
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/cometbft'
+
+make[1]: Saindo do diretório '/home/lucas/github/blockchain/repositories/cometbft'
+

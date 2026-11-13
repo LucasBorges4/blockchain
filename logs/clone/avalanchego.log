@@ -1,0 +1,16 @@
+Clonando em '/home/lucas/github/blockchain/repositories/avalanchego'...
+De https://github.com/ava-labs/avalanchego
+ - [excluído]              (nenhum)           -> origin/cchain-txpool-nits
+   16bab78073..fc7aea9f05  master             -> origin/master
+ + ea9c12c39d...ece7bcea96 canoto-bump-master -> origin/canoto-bump-master  (atualização forçada)
+Atualizando 16bab78073..fc7aea9f05
+Fast-forward
+ RELEASES.md                          |  2 ++
+ vms/evm/imp/cchain/config.go         |  1 +
+ vms/evm/imp/cchain/statesync_test.go |  1 +
+ vms/evm/imp/cchain/vm_test.go        |  2 ++
+ vms/evm/imp/cchain/warp_test.go      |  2 ++
+ vms/evm/imp/l1s/vm_test.go           |  4 +++-
+ vms/evm/sae/vm.go                    |  2 +-
+ vms/evm/sae/vm_test.go               | 44 ++++++++++++++++++++++++++++++++++++
+ 8 files changed, 56 insertions(+), 2 deletions(-)

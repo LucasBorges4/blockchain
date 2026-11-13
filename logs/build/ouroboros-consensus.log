@@ -1,0 +1,111 @@
+[0;31m[2026-11-12 23:35:44] ✗[0m Neither cabal nor stack found
+Config file path source is default config file.
+Config file path source is default config file.
+Config file not found: /home/lucas/.config/cabal/config
+Config file not found: /home/lucas/.config/cabal/config
+Writing default configuration to /home/lucas/.config/cabal/config
+Writing default configuration to /home/lucas/.config/cabal/config
+Warning:
+Warning:
+/home/lucas/github/blockchain/repositories/ouroboros-consensus/cabal.project,
+cabal/asserts.cabal, cabal/newer-ghcs.cabal: Unrecognized field 'multi-repl'
+on line 27
+/home/lucas/github/blockchain/repositories/ouroboros-consensus/cabal.project,
+cabal/asserts.cabal, cabal/newer-ghcs.cabal: Unrecognized field 'multi-repl'
+on line 27
+Clonando em '/home/lucas/github/blockchain/repositories/ouroboros-consensus/dist-newstyle/src/cardano-l_-20d723c5260ba346'...
+Clonando em '/home/lucas/github/blockchain/repositories/ouroboros-consensus/dist-newstyle/src/cardano-l_-20d723c5260ba346'...
+HEAD está agora em b21c518eb6 Merge pull request #6219 from IntersectMBO/ch1bo/eb-references-annotator
+HEAD está agora em b21c518eb6 Merge pull request #6219 from IntersectMBO/ch1bo/eb-references-annotator
+Warning: Caught exception during _mirrors lookup:DnsHostNotFound
+Warning: Caught exception during _mirrors lookup:DnsHostNotFound
+Warning: No mirrors found for https://chap.intersectmbo.org/
+Warning: No mirrors found for https://chap.intersectmbo.org/
+Downloading the latest package lists from:
+Downloading the latest package lists from:
+- hackage.haskell.org
+- cardano-haskell-packages
+- hackage.haskell.org
+- cardano-haskell-packages
+Package list of cardano-haskell-packages has been updated.
+Package list of cardano-haskell-packages has been updated.
+The index-state is set to 2026-11-05T22:55:22Z.
+The index-state is set to 2026-11-05T22:55:22Z.
+Package list of hackage.haskell.org has been updated.
+Package list of hackage.haskell.org has been updated.
+The index-state is set to 2026-11-13T05:45:10Z.
+The index-state is set to 2026-11-13T05:45:10Z.
+Warning:
+Warning:
+/home/lucas/github/blockchain/repositories/ouroboros-consensus/cabal.project,
+cabal/asserts.cabal, cabal/newer-ghcs.cabal: Unrecognized field 'multi-repl'
+on line 27
+/home/lucas/github/blockchain/repositories/ouroboros-consensus/cabal.project,
+cabal/asserts.cabal, cabal/newer-ghcs.cabal: Unrecognized field 'multi-repl'
+on line 27
+HEAD está agora em b21c518eb6 Merge pull request #6219 from IntersectMBO/ch1bo/eb-references-annotator
+HEAD está agora em b21c518eb6 Merge pull request #6219 from IntersectMBO/ch1bo/eb-references-annotator
+Resolving dependencies...
+Resolving dependencies...
+Error: cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
+[__0] trying: byron-spec-chain-1.0.2.0 (user goal)
+[__0] trying: byron-spec-chain-1.0.2.0 (user goal)
+[__1] trying: base-4.18.3.0/installed-4.18.3.0 (dependency of
+[__1] trying: base-4.18.3.0/installed-4.18.3.0 (dependency of
+byron-spec-chain)
+byron-spec-chain)
+[__2] trying: byron-spec-ledger-1.1.1.0 (user goal)
+[__2] trying: byron-spec-ledger-1.1.1.0 (user goal)
+[__3] next goal: cardano-crypto-class (dependency of byron-spec-ledger)
+[__3] next goal: cardano-crypto-class (dependency of byron-spec-ledger)
+[__3] rejecting: cardano-crypto-class-2.6.0.0, cardano-crypto-class-2.5.1.0,
+[__3] rejecting: cardano-crypto-class-2.6.0.0, cardano-crypto-class-2.5.1.0,
+cardano-crypto-class-2.5.0.0, cardano-crypto-class-2.4.0.0,
+cardano-crypto-class-2.5.0.0, cardano-crypto-class-2.4.0.0,
+cardano-crypto-class-2.3.3.0, cardano-crypto-class-2.3.2.0,
+cardano-crypto-class-2.3.1.0, cardano-crypto-class-2.3.0.0,
+cardano-crypto-class-2.2.3.2, cardano-crypto-class-2.2.3.1 (conflict:
+pkg-config package libblst>=0.3.14, not found in the pkg-config database)
+[__3] rejecting: cardano-crypto-class-2.2.3.0, cardano-crypto-class-2.2.2.1,
+cardano-crypto-class-2.2.2.0, cardano-crypto-class-2.2.1.1,
+cardano-crypto-class-2.2.1.0, cardano-crypto-class-2.2.0.1,
+cardano-crypto-class-2.2.0.0, cardano-crypto-class-2.1.5.0,
+cardano-crypto-class-2.1.4.0, cardano-crypto-class-2.1.3.0,
+cardano-crypto-class-2.1.2.0 (conflict: pkg-config package libblst-any, not
+found in the pkg-config database)
+[__3] trying: cardano-crypto-class-2.1.1.0
+[__4] rejecting: cardano-crypto-class:+secp256k1-support (conflict: pkg-config
+package libsecp256k1-any, not found in the pkg-config database)
+[__4] rejecting: cardano-crypto-class:-secp256k1-support (manual flag can only
+be changed explicitly)
+[__4] fail (backjumping, conflict set: cardano-crypto-class,
+cardano-crypto-class:secp256k1-support)
+After searching the rest of the dependency tree exhaustively, these were the
+goals I've had most trouble fulfilling: cardano-crypto-class, base,
+byron-spec-ledger, cardano-crypto-class:secp256k1-support, byron-spec-chain
+Try running with --minimize-conflict-set to improve the error message.
+
+cardano-crypto-class-2.3.3.0, cardano-crypto-class-2.3.2.0,
+cardano-crypto-class-2.3.1.0, cardano-crypto-class-2.3.0.0,
+cardano-crypto-class-2.2.3.2, cardano-crypto-class-2.2.3.1 (conflict:
+pkg-config package libblst>=0.3.14, not found in the pkg-config database)
+[__3] rejecting: cardano-crypto-class-2.2.3.0, cardano-crypto-class-2.2.2.1,
+cardano-crypto-class-2.2.2.0, cardano-crypto-class-2.2.1.1,
+cardano-crypto-class-2.2.1.0, cardano-crypto-class-2.2.0.1,
+cardano-crypto-class-2.2.0.0, cardano-crypto-class-2.1.5.0,
+cardano-crypto-class-2.1.4.0, cardano-crypto-class-2.1.3.0,
+cardano-crypto-class-2.1.2.0 (conflict: pkg-config package libblst-any, not
+found in the pkg-config database)
+[__3] trying: cardano-crypto-class-2.1.1.0
+[__4] rejecting: cardano-crypto-class:+secp256k1-support (conflict: pkg-config
+package libsecp256k1-any, not found in the pkg-config database)
+[__4] rejecting: cardano-crypto-class:-secp256k1-support (manual flag can only
+be changed explicitly)
+[__4] fail (backjumping, conflict set: cardano-crypto-class,
+cardano-crypto-class:secp256k1-support)
+After searching the rest of the dependency tree exhaustively, these were the
+goals I've had most trouble fulfilling: cardano-crypto-class, base,
+byron-spec-ledger, cardano-crypto-class:secp256k1-support, byron-spec-chain
+Try running with --minimize-conflict-set to improve the error message.
+

@@ -1,0 +1,48 @@
+[0;34m[2026-11-13 02:58:25][0m Starting dependency check
+[0;34m[2026-11-13 02:58:25][0m === System Dependencies ===
+[0;32m[2026-11-13 02:58:25] ✓[0m git found: git version 2.56.0
+[0;32m[2026-11-13 02:58:25] ✓[0m make found: GNU Make 4.4.1
+[0;32m[2026-11-13 02:58:25] ✓[0m cmake cmake version 4.4.4 (>= 3.20)
+[0;32m[2026-11-13 02:58:25] ✓[0m pkg-config found: 3.0.7
+[0;32m[2026-11-13 02:58:25] ✓[0m curl found: curl 8.22.0 (x86_64-pc-linux-gnu) libcurl/8.22.0 OpenSSL/3.6.5 zlib/1.3.2 brotli/1.2.0 zstd/1.5.7 libidn2/2.3.8 libpsl/0.21.5 libssh2/1.11.1 nghttp2/1.70.0 ngtcp2/1.25.0 nghttp3/1.18.0 mit-krb5/1.22.2
+[0;32m[2026-11-13 02:58:25] ✓[0m wget found: GNU Wget 1.25.0 construído em linux-gnu.
+[0;32m[2026-11-13 02:58:25] ✓[0m python3 Python 3.14.7 (>= 3.10)
+[0;32m[2026-11-13 02:58:25] ✓[0m pip3 pip 26.2.1 from /usr/lib/python3.14/site-packages/pip (python 3.14) (>= 22.0)
+[0;32m[2026-11-13 02:58:25] ✓[0m gcc 16.2 (>= 11)
+[0;32m[2026-11-13 02:58:25] ✓[0m g++ 16.2 (>= 11)
+[0;32m[2026-11-13 02:58:25] ✓[0m clang 23.1 (>= 14)
+[0;32m[2026-11-13 02:58:25] ✓[0m pkg-config: openssl 3.6.5 (>= 1.1)
+[0;32m[2026-11-13 02:58:25] ✓[0m pkg-config: libssl 3.6.5 (>= 1.1)
+[0;32m[2026-11-13 02:58:25] ✓[0m pkg-config: zlib found (1.3.2)
+[0;32m[2026-11-13 02:58:25] ✓[0m pkg-config: libevent found (2.1.13)
+[0;34m[2026-11-13 02:58:25][0m === Go Toolchain ===
+[0;32m[2026-11-13 02:58:25] ✓[0m go 1.27
+[0;34m[2026-11-13 02:58:25][0m === Rust Toolchain ===
+error: rustup could not choose a version of rustc to run, because one wasn't specified explicitly, and no default is configured.
+help: run 'rustup default stable' to download the latest stable release of Rust and set it as your default toolchain.
+[0;32m[2026-11-13 02:58:25] ✓[0m rustc 
+[1;33m[2026-11-13 02:58:25] ⚠[0m rustc  < 1.70 required
+error: rustup could not choose a version of cargo to run, because one wasn't specified explicitly, and no default is configured.
+help: run 'rustup default stable' to download the latest stable release of Rust and set it as your default toolchain.
+[0;32m[2026-11-13 02:58:25] ✓[0m cargo 
+[0;34m[2026-11-13 02:58:25][0m === Haskell Toolchain ===
+[0;32m[2026-11-13 02:58:25] ✓[0m ghc 9.6.7
+[0;32m[2026-11-13 02:58:25] ✓[0m cabal 3.10.3.0
+[0;34m[2026-11-13 02:58:25][0m === Python Toolchain ===
+[0;32m[2026-11-13 02:58:25] ✓[0m python3 3.14
+[0;32m[2026-11-13 02:58:25] ✓[0m pip3 26.2
+[0;32m[2026-11-13 02:58:25] ✓[0m venv module available
+[0;34m[2026-11-13 02:58:25][0m === Container Runtime ===
+[0;32m[2026-11-13 02:58:25] ✓[0m docker 29.8.2
+[1;33m[2026-11-13 02:58:25] ⚠[0m docker daemon not accessible (permission?)
+[0;32m[2026-11-13 02:58:25] ✓[0m docker-compose available
+[0;34m[2026-11-13 02:58:25][0m === Network Simulation Tools ===
+[0;32m[2026-11-13 02:58:25] ✓[0m tc (traffic control) available
+[1;33m[2026-11-13 02:58:25] ⚠[0m iperf3 not found (optional, for bandwidth testing)
+[0;34m[2026-11-13 02:58:25][0m === Monitoring Tools ===
+[0;34m[2026-11-13 02:58:25][0m prometheus not installed (will use Docker if monitoring profile enabled)
+[0;34m[2026-11-13 02:58:25][0m grafana not installed (will use Docker if monitoring profile enabled)
+[0;34m[2026-11-13 02:58:25][0m Generating dependency report...
+[0;32m[2026-11-13 02:58:25] ✓[0m Dependency report saved to /home/lucas/github/blockchain/reports/raw/dependencies.md and /home/lucas/github/blockchain/reports/raw/dependencies.json
+[1;33m[2026-11-13 02:58:25] ⚠[0m Dependency check completed with 1 issue(s)
+[1;33m[2026-11-13 02:58:25] ⚠[0m Some repositories may not build correctly
